@@ -1,7 +1,6 @@
 # Week 1 Assignment: Due Tuesday June 25th at 11:59 pm
 
-## “Get empowered not intimidated” 
-## Wallbreakers Week #1
+“Get empowered not intimidated” 
 
 ## Goals For This Week
 ### Programming Language Selection
@@ -30,7 +29,7 @@ After solving (or giving up on) a problem – take notes. Record what your think
 
 ### Basic math:
 - [ ] [Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers)
-- [ ] [Fizz Buzz](https://leetcode.com/problems/fizz-buzz
+- [x] [Fizz Buzz](https://leetcode.com/problems/fizz-buzz) [Solution](/fizz-buzz.java)
 - [ ] [Plus One](https://leetcode.com/problems/plus-one)
 - [ ] [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number)
 - [ ] [Power of Two](https://leetcode.com/problems/power-of-two)
