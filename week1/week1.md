@@ -29,7 +29,7 @@ After solving (or giving up on) a problem – take notes. Record what your think
 
 ### Basic math:
 - [ ] [Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers)
-- [x] [Fizz Buzz](https://leetcode.com/problems/fizz-buzz) [Solution](/fizz-buzz.java)
+- [x] [Fizz Buzz](https://leetcode.com/problems/fizz-buzz) ([Solution](fizz-buzz.java))
 - [ ] [Plus One](https://leetcode.com/problems/plus-one)
 - [ ] [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number)
 - [ ] [Power of Two](https://leetcode.com/problems/power-of-two)
