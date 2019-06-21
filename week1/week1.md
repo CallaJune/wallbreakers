@@ -35,7 +35,7 @@ After solving (or giving up on) a problem – take notes. Record what your think
 - [ ] [Power of Two](https://leetcode.com/problems/power-of-two)
 
 ### Simple string manipulation:
-- [ ] [Reverse String](https://leetcode.com/problems/reverse-string)
+- [x] [Reverse String](https://leetcode.com/problems/reverse-string) ([Solution](reverse-string.java))
 - [ ] [Detect Capital](https://leetcode.com/problems/detect-capital)
 - [ ] [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii)
 - [ ] [Valid Palindrome](https://leetcode.com/problems/valid-palindrome)
@@ -49,7 +49,7 @@ After solving (or giving up on) a problem – take notes. Record what your think
 - [ ] [Single Number](https://leetcode.com/problems/single-number)
 
 ### Hashmaps and sets:
-- [ ] [Two Sum](https://leetcode.com/problems/two-sum/)
+- [x] [Two Sum](https://leetcode.com/problems/two-sum/) ([Solution](two-sum.java))
 - [ ] [Valid Anagram](https://leetcode.com/problems/valid-anagram/)
 
 ### Union find:
