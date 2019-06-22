@@ -58,11 +58,11 @@ After solving (or giving up on) a problem – take notes. Record what your think
 - [ ] [Surrounded Regions](https://leetcode.com/problems/surrounded-regions)
 
 ## Resources
-- Python starting point
-- Refresher on strings in Python
-- Refresher on lists in Python
-- Refresher on modular arithmetic
-- Bitwise operations in Python
+- [Python starting point](https://www.learnpython.org)
+- [Refresher on strings in Python](https://developers.google.com/edu/python/strings)
+- [Refresher on lists in Python](https://developers.google.com/edu/python/lists)
+- [Refresher on modular arithmetic](https://www.khanacademy.org/computing/computer-science/cryptography/modarithmetic/a/what-is-modular-arithmetic)
+- [Bitwise operations in Python](https://wiki.python.org/moin/BitwiseOperators)
 - https://www.geeksforgeeks.org/union-find/
 - https://algocoding.wordpress.com/2014/09/19/union-find-data-structure-disjoint-set-data-structure/
 - https://algocoding.wordpress.com/2014/09/25/union-find-data-structure-disjoint-set-data-structure-part-2/
