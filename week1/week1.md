@@ -37,7 +37,7 @@ After solving (or giving up on) a problem – take notes. Record what your think
 ### Simple string manipulation:
 - [x] [Reverse String](https://leetcode.com/problems/reverse-string) ([Solution](reverse-string.java))
 - [x] [Detect Capital](https://leetcode.com/problems/detect-capital) ([Solution](detect-capital.java))
-- [ ] [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii)
+- [x] [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii) ([Solution](reverse-words-in-a-string-iii.java))
 - [x] [Valid Palindrome](https://leetcode.com/problems/valid-palindrome) ([Solution](valid-palindrome.java))
 - [x] [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string) ([Solution](reverse-vowels-of-a-string.java))
 - [x] [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix) ([Solution](longest-common-prefix.java))
