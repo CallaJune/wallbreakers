@@ -22,7 +22,7 @@ After solving (or giving up on) a problem – take notes. Record what your think
 
 ## Coding exercises
 ### Arrays:
-- [ ] [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity)
+- [x] [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity) ([Solution](sort-array-by-parity.java))
 - [ ] [Transpose Matrix](https://leetcode.com/problems/transpose-matrix)
 - [ ] [Flipping an Image](https://leetcode.com/problems/flipping-an-image)
 
