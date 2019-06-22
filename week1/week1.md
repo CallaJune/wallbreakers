@@ -38,7 +38,7 @@ After solving (or giving up on) a problem – take notes. Record what your think
 - [x] [Reverse String](https://leetcode.com/problems/reverse-string) ([Solution](reverse-string.java))
 - [ ] [Detect Capital](https://leetcode.com/problems/detect-capital)
 - [ ] [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii)
-- [ ] [Valid Palindrome](https://leetcode.com/problems/valid-palindrome)
+- [x] [Valid Palindrome](https://leetcode.com/problems/valid-palindrome) ([Solution](valid-palindrome.java))
 - [ ] [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string)
 - [ ] [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix)
 
@@ -50,7 +50,7 @@ After solving (or giving up on) a problem – take notes. Record what your think
 
 ### Hashmaps and sets:
 - [x] [Two Sum](https://leetcode.com/problems/two-sum/) ([Solution](two-sum.java))
-- [x] [Valid Anagram](https://leetcode.com/problems/valid-anagram/) ([Solution](valid-palindrome.java))
+- [x] [Valid Anagram](https://leetcode.com/problems/valid-anagram/) ([Solution](valid-anagram.java))
 
 ### Union find:
 - [ ] [Friend Circles](https://leetcode.com/problems/friend-circles)
