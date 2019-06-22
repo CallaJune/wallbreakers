@@ -7,8 +7,6 @@ class Solution {
             if (end == charArray.length || charArray[end] == ' ') {
                 reverseWord(charArray, beg, end - 1);
                 beg = end + 1;
-                end++;
-                continue;
             }
             end++;
         }
