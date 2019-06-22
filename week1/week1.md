@@ -27,7 +27,7 @@ After solving (or giving up on) a problem – take notes. Record what your think
 - [ ] [Flipping an Image](https://leetcode.com/problems/flipping-an-image)
 
 ### Basic math:
-- [ ] [Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers)
+- [x] [Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers) ([Solution](self-dividing-numbers.java))
 - [x] [Fizz Buzz](https://leetcode.com/problems/fizz-buzz) ([Solution](fizz-buzz.java))
 - [x] [Plus One](https://leetcode.com/problems/plus-one) ([Solution](plus-one.java))
 - [x] [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number) ([Solution](excel-sheet-column-number.java))
