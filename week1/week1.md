@@ -30,7 +30,7 @@ After solving (or giving up on) a problem – take notes. Record what your think
 - [ ] [Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers)
 - [x] [Fizz Buzz](https://leetcode.com/problems/fizz-buzz) ([Solution](fizz-buzz.java))
 - [x] [Plus One](https://leetcode.com/problems/plus-one) ([Solution](plus-one.java))
-- [ ] [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number)
+- [x] [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number) ([Solution](excel-sheet-column-number.java))
 - [x] [Power of Two](https://leetcode.com/problems/power-of-two) ([Solution](power-of-two.java))
 
 ### Simple string manipulation:
