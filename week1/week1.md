@@ -32,7 +32,7 @@ After solving (or giving up on) a problem – take notes. Record what your think
 - [x] [Fizz Buzz](https://leetcode.com/problems/fizz-buzz) ([Solution](fizz-buzz.java))
 - [ ] [Plus One](https://leetcode.com/problems/plus-one)
 - [ ] [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number)
-- [ ] [Power of Two](https://leetcode.com/problems/power-of-two)
+- [x] [Power of Two](https://leetcode.com/problems/power-of-two) ([Solution](power-of-two.java))
 
 ### Simple string manipulation:
 - [x] [Reverse String](https://leetcode.com/problems/reverse-string) ([Solution](reverse-string.java))
@@ -50,7 +50,7 @@ After solving (or giving up on) a problem – take notes. Record what your think
 
 ### Hashmaps and sets:
 - [x] [Two Sum](https://leetcode.com/problems/two-sum/) ([Solution](two-sum.java))
-- [ ] [Valid Anagram](https://leetcode.com/problems/valid-anagram/)
+- [x] [Valid Anagram](https://leetcode.com/problems/valid-anagram/) ([Solution](valid-palindrome.java))
 
 ### Union find:
 - [ ] [Friend Circles](https://leetcode.com/problems/friend-circles)
