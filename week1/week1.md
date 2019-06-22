@@ -36,10 +36,10 @@ After solving (or giving up on) a problem – take notes. Record what your think
 
 ### Simple string manipulation:
 - [x] [Reverse String](https://leetcode.com/problems/reverse-string) ([Solution](reverse-string.java))
-- [ ] [Detect Capital](https://leetcode.com/problems/detect-capital)
+- [x] [Detect Capital](https://leetcode.com/problems/detect-capital) ([Solution](detect-capital.java))
 - [ ] [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii)
 - [x] [Valid Palindrome](https://leetcode.com/problems/valid-palindrome) ([Solution](valid-palindrome.java))
-- [ ] [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string)
+- [x] [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string) ([Solution](reverse-vowels-of-a-string.java))
 - [x] [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix) ([Solution](longest-common-prefix.java))
 
 ### Simple bitwise manipulation:
