@@ -40,7 +40,7 @@ After solving (or giving up on) a problem – take notes. Record what your think
 - [ ] [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii)
 - [x] [Valid Palindrome](https://leetcode.com/problems/valid-palindrome) ([Solution](valid-palindrome.java))
 - [ ] [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string)
-- [ ] [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix)
+- [x] [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix) ([Solution](longest-common-prefix.java))
 
 ### Simple bitwise manipulation:
 - [ ] [Number Complement](https://leetcode.com/problems/number-complement)
