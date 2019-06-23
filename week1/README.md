@@ -23,8 +23,8 @@ After solving (or giving up on) a problem – take notes. Record what your think
 ## Coding exercises
 ### Arrays:
 - [x] [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity) ([Solution](sort-array-by-parity.java))
-- [ ] [Transpose Matrix](https://leetcode.com/problems/transpose-matrix)
-- [ ] [Flipping an Image](https://leetcode.com/problems/flipping-an-image)
+- [x] [Transpose Matrix](https://leetcode.com/problems/transpose-matrix) ([Solution](transpose-matrix.java))
+- [x] [Flipping an Image](https://leetcode.com/problems/flipping-an-image) ([Solution](flipping-an-image.java))
 
 ### Basic math:
 - [x] [Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers) ([Solution](self-dividing-numbers.java))
