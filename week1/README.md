@@ -42,8 +42,8 @@ After solving (or giving up on) a problem – take notes. Record what your think
 - [x] [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix) ([Solution](longest-common-prefix.java))
 
 ### Simple bitwise manipulation:
-- [ ] [Number Complement](https://leetcode.com/problems/number-complement)
-- [ ] [Hamming Distance](https://leetcode.com/problems/hamming-distance/)
+- [x] [Number Complement](https://leetcode.com/problems/number-complement) ([Solution](number-complement.java))
+- [x] [Hamming Distance](https://leetcode.com/problems/hamming-distance/) ([Solution](hamming-distance.java))
 - [ ] [Binary Gap](https://leetcode.com/problems/binary-gap)
 - [ ] [Single Number](https://leetcode.com/problems/single-number)
 
