@@ -53,7 +53,7 @@ After solving (or giving up on) a problem – take notes. Record what your think
 
 ### Union find:
 - [ ] [Friend Circles](https://leetcode.com/problems/friend-circles)
-- [ ] [Number of Islands](https://leetcode.com/problems/number-of-islands)
+- [x] [Number of Islands](https://leetcode.com/problems/number-of-islands) ([Solution](number-of-islands.java))
 - [ ] [Surrounded Regions](https://leetcode.com/problems/surrounded-regions)
 
 ## Resources
