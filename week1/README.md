@@ -54,7 +54,7 @@ After solving (or giving up on) a problem – take notes. Record what your think
 ### Union find:
 - [x] [Friend Circles](https://leetcode.com/problems/friend-circles) ([Solution](friend-circles.java))
 - [x] [Number of Islands](https://leetcode.com/problems/number-of-islands) ([Solution](number-of-islands.java))
-- [ ] [Surrounded Regions](https://leetcode.com/problems/surrounded-regions) ([Solution](surrounded-regions.java))
+- [x] [Surrounded Regions](https://leetcode.com/problems/surrounded-regions) ([Solution](surrounded-regions.java))
 
 ## Resources
 - [Python starting point](https://www.learnpython.org)
