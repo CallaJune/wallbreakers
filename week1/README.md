@@ -15,7 +15,7 @@ After solving (or giving up on) a problem – take notes. Record what your think
 
 ## Week 1 Checklist
 - [x] Create a [LeetCode](https://leetcode.com/) profile
-- [ ] Solve as many of the problems listed below as you can by the end of the week
+- [x] Solve as many of the problems listed below as you can by the end of the week
 - [x] Create a github profile
 - [x] Upload all solutions to github
 
