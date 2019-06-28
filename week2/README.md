@@ -10,9 +10,9 @@ Hash maps and hash sets are arguably the most important data structures you will
 ## Week #2 Coding Exercises
 
 ### Hash maps and hash sets
-- [ ] [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)
+- [x] [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/) ([Solution](jewels-and-stones.java))
 - [ ] [Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/)
-- [ ] [Happy Number](https://leetcode.com/problems/happy-number/)
+- [x] [Happy Number](https://leetcode.com/problems/happy-number/) ([Solution](happy-number.java))
 - [ ] [Uncommon Words from Two Sentences](https://leetcode.com/problems/uncommon-words-from-two-sentences/)
 - [ ] [Distribute Candies](https://leetcode.com/problems/distribute-candies/)
 - [ ] [Groups of Special Equivalent Strings](https://leetcode.com/problems/groups-of-special-equivalent-strings/)
