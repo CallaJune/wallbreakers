@@ -16,7 +16,7 @@ Hash maps and hash sets are arguably the most important data structures you will
 - [x] [Uncommon Words from Two Sentences](https://leetcode.com/problems/uncommon-words-from-two-sentences/) ([Solution](uncommon-words-from-two-sentences.java))
 - [ ] [Distribute Candies](https://leetcode.com/problems/distribute-candies/)
 - [ ] [Groups of Special Equivalent Strings](https://leetcode.com/problems/groups-of-special-equivalent-strings/)
-- [ ] [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)
+- [x] [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) ([Solution](intersection-of-two-arrays.java))
 - [ ] [Validate Sudoku](https://leetcode.com/problems/valid-sudoku/)
 - [ ] [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)
 - [ ] [Word Pattern](https://leetcode.com/problems/word-pattern/)

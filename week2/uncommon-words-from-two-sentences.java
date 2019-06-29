@@ -19,8 +19,7 @@ class Solution {
         String[] result = new String[set.size()];
         int i = 0;
         for (String item : set) {
-            result[i] = item;
-            i++;
+            result[i++] = item;
         }
         return result;
     }
