@@ -21,7 +21,7 @@ Hash maps and hash sets are arguably the most important data structures you will
 - [x] [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) ([Solution](isomorphic-strings.java))
 - [x] [Word Pattern](https://leetcode.com/problems/word-pattern/) ([Solution](word-pattern.java))
 - [ ] [Design Hashmap](https://leetcode.com/problems/design-hashmap/)
-- [ ] [Design Hashset](https://leetcode.com/problems/design-hashset/)
+- [x] [Design Hashset](https://leetcode.com/problems/design-hashset/) ([Solution](design-hashset.java))
 
 ### Multisets
 - [ ] [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/)
