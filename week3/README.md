@@ -32,7 +32,7 @@ Problems are grouped by applicable problem solving strategy here. Within each gr
 Make sure you use memoization if applicable for the problems below
 
 - [ ] [Pow(x,n)](https://leetcode.com/problems/powx-n)
-- [ ] [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)
+- [x] [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) ([Solution](best-time-to-buy-and-sell-stock.java))
 - [ ] [Edit Distance](https://leetcode.com/problems/edit-distance)
 - [ ] [House Robber II](https://leetcode.com/problems/house-robber-ii)
 	- Do not use a built-in regex for this one: https://leetcode.com/problems/regular-expression-matching/
