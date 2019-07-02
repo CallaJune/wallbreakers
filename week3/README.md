@@ -19,7 +19,7 @@ Problems are grouped by applicable problem solving strategy here. Within each gr
 
 ### Binary search
 - [x] [Binary Search](https://leetcode.com/problems/binary-search) ([Solution](binary-search.java))
-- [ ] [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array)
+- [x] [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array) ([Solution](peak-index-in-a-mountain-array.java))
 
 ### Sorting
 - [x] [Valid Anagram](https://leetcode.com/problems/valid-anagram) ([Solution](valid-anagram.java))
