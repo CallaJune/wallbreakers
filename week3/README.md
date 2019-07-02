@@ -18,11 +18,11 @@ Problems are grouped by applicable problem solving strategy here. Within each gr
 - [ ] [Partition Labels](https://leetcode.com/problems/partition-labels)
 
 ### Binary search
-- [ ] [Binary Search](https://leetcode.com/problems/binary-search)
+- [x] [Binary Search](https://leetcode.com/problems/binary-search) ([Solution](binary-search.java))
 - [ ] [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array)
 
 ### Sorting
-- [ ] [Valid Anagram](https://leetcode.com/problems/valid-anagram)
+- [x] [Valid Anagram](https://leetcode.com/problems/valid-anagram) ([Solution](valid-anagram.java))
 - [ ] [Array Partition I](https://leetcode.com/problems/array-partition-i)
 - [ ] [Merge Intervals](https://leetcode.com/problems/merge-intervals)
 	- Use sorting, not a multiset (you solved this problem using a multiset last week) 
