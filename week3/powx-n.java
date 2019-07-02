@@ -1,15 +1,16 @@
 class Solution {
     public double myPow(double x, int n) {
-        return myPow(x, n, 1);
-    }
-    
-    public double myPow(double x, int n, double a) {
         if (n == 0) {
-            return a;
-        } else if (n > 0) {
-            return myPow(x, n - 1, a * x);
+            return 1;
+        }
+        double temp = myPow(x, n / 2);
+        if (n % 2 == 0) {
+            return temp * temp;
         } else {
-            return myPow(x, n + 1, a / x);
+            if (n > 0) {
+                return x * temp * temp;
+            }
+            return (temp * temp) / x;
         }
     }
 }
