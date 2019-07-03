@@ -69,4 +69,18 @@ class Multiset<T> {
 			return false;
 		}
 	}
+
+	public boolean equals(Multiset<T> multiset) {
+		if (multiset.size() != this.size() || multiset.elementSet().size() != this.elementSet().size()) {
+			return false;
+		}
+		for (T element : multiset.elementSet()) {
+			if (!this.contains(element)) {
+				return false;
+			} else if (this.count(element) != multiset.count(element)) {
+				return false;
+			}
+		}
+		return true;
+	}
 }

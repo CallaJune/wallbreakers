@@ -1,4 +1,3 @@
-
 // Uses the multiset class in Multiset.java
 class Solution {
     public String mostCommonWord(String paragraph, String[] banned) {
