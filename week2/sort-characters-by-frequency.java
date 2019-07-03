@@ -1,3 +1,4 @@
+// Uses the multiset class in Multiset.java
 class Solution {
     public String frequencySort(String s) {
         Multiset<Character> ms = new Multiset<>();
