@@ -27,7 +27,7 @@ Hash maps and hash sets are arguably the most important data structures you will
 - [ ] [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/)
 	- Note: Use a multiset for this one. You can also solve it without using one. How? Try to solve it both ways. How do the two solutions compare?
 - [x] [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) ([Solution](first-unique-character-in-a-string.java))
-- [ ] [Subdomain Visit Count](https://leetcode.com/problems/subdomain-visit-count/)
+- [x] [Subdomain Visit Count](https://leetcode.com/problems/subdomain-visit-count/) ([Solution](subdomain-visit-count.java))
 - [x] [Find the Difference](https://leetcode.com/problems/find-the-difference/) ([Solution](find-the-difference.java))
 - [ ] [Most Common Word](https://leetcode.com/problems/most-common-word/)
 - [x] [Sort Characters by Frequency](https://leetcode.com/problems/sort-characters-by-frequency/) ([Solution](sort-characters-by-frequency.java))

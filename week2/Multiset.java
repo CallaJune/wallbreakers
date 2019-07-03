@@ -13,6 +13,14 @@ class Multiset<T> {
 		}
 	}
 
+	public void add(T element, int n) {
+		if (map.containsKey(element)) {
+			map.put(element, map.get(element) + n);
+		} else {
+			map.put(element, n);
+		}
+	}
+
 	public boolean contains(T element) {
 		return map.containsKey(element);
 	}
