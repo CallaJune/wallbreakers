@@ -1,3 +1,4 @@
+// Uses the multiset class in Multiset.java
 class Solution {
     public List<String> subdomainVisits(String[] cpdomains) {
         Multiset<String> domains = new Multiset<>();
