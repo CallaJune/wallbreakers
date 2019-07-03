@@ -17,8 +17,8 @@ class Multiset<T> {
 		return map.containsKey(element);
 	}
 
-	public boolean containsAll(Collection<T> collection) {
-		for (T item : collection) {
+	public boolean containsAll(List<T> list) {
+		for (T item : list) {
 			if (!map.containsKey(item)) {
 				return false;
 			}
@@ -26,12 +26,12 @@ class Multiset<T> {
 		return true;
 	}
 
-	public count(T element) {
+	public int count(T element) {
 		return map.get(element);
 	}
 
 	public Set<T> elementSet() {
-		map.keySet();
+		return map.keySet();
 	}
 
 	public Set<Map.Entry<T, Integer>> entrySet() {
