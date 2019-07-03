@@ -33,7 +33,7 @@ Hash maps and hash sets are arguably the most important data structures you will
 - [x] [Sort Characters by Frequency](https://leetcode.com/problems/sort-characters-by-frequency/) ([Solution](sort-characters-by-frequency.java))
 - [x] [Set Mismatch](https://leetcode.com/problems/set-mismatch/) ([Solution](set-mismatch.java))
 	- Note: This one has a few “clever” solutions but feel free to use a simple multiset solution.
-- [ ] [Number of Atoms](https://leetcode.com/problems/number-of-atoms/) 
+- [ ] [Number of Atoms](https://leetcode.com/problems/number-of-atoms/) ([Solution](number-of-atoms.java))
 	- Note: This one is more difficult than the average interview question but it is good exercise! You will need to build a simple parser in addition to using a multiset.
 
 ### Tries
