@@ -26,7 +26,7 @@ Problems are grouped by applicable problem solving strategy here. Within each gr
 - [ ] [Array Partition I](https://leetcode.com/problems/array-partition-i)
 - [ ] [Merge Intervals](https://leetcode.com/problems/merge-intervals)
 	- Use sorting, not a multiset (you solved this problem using a multiset last week) 
-- [ ] [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string)
+- [x] [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string) ([Solution](find-all-anagrams-in-a-string.java))
 
 ### Recursion and memoization
 Make sure you use memoization if applicable for the problems below
