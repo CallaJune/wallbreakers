@@ -1,3 +1,5 @@
+// Uses the multiset class in Multiset.java
+// Does not handle the case of number values 10+
 class Solution {
     public String countOfAtoms(String formula) {
         Multiset<String> elements = parseFormula(formula);
