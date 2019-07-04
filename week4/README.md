@@ -11,7 +11,7 @@ This week we will look at a few more data structures and how to use them to solv
 Problems are grouped by applicable problem solving strategy here. Within each group problems appear in roughly increasing order of difficulty. If you get stuck on a problem in one group, you can switch to a problem in another group and go back later. This can help make sure you keep making progress.
 
 ### Linked lists
-- [ ] [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list)
+- [x] [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list) ([Solution](reverse-linked-list.java))
 - [ ] [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list)
 - [ ] [Reverse Noes in K Group](https://leetcode.com/problems/reverse-nodes-in-k-group)
 - [ ] [LRU Cache](https://leetcode.com/problems/lru-cache)
