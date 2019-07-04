@@ -58,21 +58,13 @@ class Solution {
                 map = new Multiset<String>();
                 numParens++;
             } else if (Character.isDigit(c)) {
-                int num = 0;
-                // If s not empty, store s
-                String storedAtomName = s.toString();
-                s.setLength(0);
-                // Build string while characters are digits
-                while (i < formula.length() - 1 && Character.isDigit(formula.charAt(i))) {
-                    s.append(formula.charAt(i));
-                    i++;
-                }
-                num = Integer.parseInt(s.toString());
-                s.setLength(0);
+                int num = Character.getNumericValue(c);
                 // If s not empty, add s to map
-                if (storedAtomName.length() > 0) {
+                if (s.length() > 0) {
                     // Put current atom onto map
-                    map.add(storedAtomName, num);
+                    map.add(s.toString(), num);
+                    // Clear s
+                    s.setLength(0);
                 } else {
                     ArrayList<Multiset<String>> list = new ArrayList<Multiset<String>>();
                     for (int p = 0; p < numParens; p++) {
