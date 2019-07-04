@@ -1,5 +1,5 @@
 // Uses the multiset class in Multiset.java
-// Does not handle the case of number values 10+
+// 14/28 test cases
 class Solution {
     public String countOfAtoms(String formula) {
         Multiset<String> elements = parseFormula(formula);
@@ -45,6 +45,7 @@ class Solution {
                     stack.push(map); 
                 }
                 map = new Multiset<String>(); 
+                i++;
             } else if (c == ')') {
                 // Clear s and if it exists
                 if (s.length() > 0) {
@@ -59,18 +60,32 @@ class Solution {
                 }
                 map = new Multiset<String>();
                 numParens++;
+                i++;
             } else if (Character.isDigit(c)) {
-                int num = Character.getNumericValue(c);
+                // If s not empty, capture value
+                String atom = s.toString();
+                s.setLength(0);
+                int num = 0;
+                // Build number
+                while (i < formula.length() && Character.isDigit(formula.charAt(i))) {
+                    s.append(formula.charAt(i));
+                    i++;
+                }
+                num = Integer.parseInt(s.toString());
+                s.setLength(0);
                 // If s not empty, add s to map
-                if (s.length() > 0) {
+                if (atom.length() > 0) {
                     // Put current atom onto map
-                    map.add(s.toString(), num);
+                    map.add(atom, num);
                     // Clear s
                     s.setLength(0);
                 } else {
                     ArrayList<Multiset<String>> list = new ArrayList<Multiset<String>>();
                     for (int p = 0; p < numParens; p++) {
                         // Multiply everything in stack top by num
+                        if (stack.empty()) {
+                            continue;
+                        }
                         Multiset<String> mapToIncrement = stack.pop();
                         for (String atomName : mapToIncrement.elementSet()) {
                             mapToIncrement.setCount(atomName, 0, mapToIncrement.count(atomName) * num);
@@ -91,10 +106,11 @@ class Solution {
                 }
                 // Initialize s with current
                 s.append(c);
+                i++;
             } else if (Character.isLowerCase(c)) {
                 s.append(c);
+                i++;
             }
-            i++;
         }
         
         // Add any trailing atom names
