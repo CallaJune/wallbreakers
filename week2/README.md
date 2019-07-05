@@ -5,7 +5,7 @@ Hash maps and hash sets are arguably the most important data structures you will
 
 ## Week 2 Checklist
 - Solve as many of the problems listed below as you can by EOD Friday, July 5th.
-- Complete the [weekly progress report](https://forms.gle/svryhNANMeCcKxE17) form by EOD Friday, July 5th.
+- Complete the [weekly progress report](https://docs.google.com/forms/d/e/1FAIpQLSfFzB8ZweISwA411mYzoVffkk3qL9UHgvO1a0Sp8vpkHqvrkQ/viewform) form by EOD Friday, July 5th.
 
 ## Week #2 Coding Exercises
 
@@ -38,7 +38,7 @@ Hash maps and hash sets are arguably the most important data structures you will
 
 ### Tries
 - [ ] [Longest Word in a Dictionary](https://leetcode.com/problems/longest-word-in-dictionary)
-- [ ] [Implement Trie Prefix Tree](https://leetcode.com/problems/implement-trie-prefix-tree)
+- [x] [Implement Trie Prefix Tree](https://leetcode.com/problems/implement-trie-prefix-tree) ([Solution](implement-trie-prefix-tree.java))
 - [ ] [Word Search II](https://leetcode.com/problems/word-search-ii)
 
 ## Resources
