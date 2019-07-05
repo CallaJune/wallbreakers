@@ -37,7 +37,7 @@ Hash maps and hash sets are arguably the most important data structures you will
 	- Note: This one is more difficult than the average interview question but it is good exercise! You will need to build a simple parser in addition to using a multiset.
 
 ### Tries
-- [ ] [Longest Word in a Dictionary](https://leetcode.com/problems/longest-word-in-dictionary)
+- [x] [Longest Word in a Dictionary](https://leetcode.com/problems/longest-word-in-dictionary) ([Solution](longest-word-in-dictionary.java))
 - [x] [Implement Trie Prefix Tree](https://leetcode.com/problems/implement-trie-prefix-tree) ([Solution](implement-trie-prefix-tree.java))
 - [ ] [Word Search II](https://leetcode.com/problems/word-search-ii)
 
