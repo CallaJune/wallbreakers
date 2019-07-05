@@ -5,7 +5,6 @@ class Solution {
         Arrays.sort(words);
         Trie trie;
         String result = "";
-        // Search backward
         for (int i = 0; i < words.length; i++) {
             // Insert each word in words into trie except for the current word
             trie = new Trie();
@@ -23,7 +22,7 @@ class Solution {
                     continue;
                 }
             }
-            
+            // Check if current word is valid and whether result should be updated
             if (counter >= words[i].length() - 1 && words[i].length() > result.length()) {
                 result = words[i];
             }
