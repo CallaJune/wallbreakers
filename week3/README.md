@@ -11,7 +11,7 @@ By the end of this week, you should feel confident in noticing when greedy algor
 Problems are grouped by applicable problem solving strategy here. Within each group problems appear in roughly increasing order of difficulty. If you get stuck on a problem in one group, you can switch to a problem in another group and go back later. This can help make sure you keep making progress.
 
 ### Greedy algorithms
-- [ ] [Lemonate Change](https://leetcode.com/problems/lemonade-change)
+- [x] [Lemonate Change](https://leetcode.com/problems/lemonade-change) ([Solution](lemonade-change.java))
 - [ ] [Assign Cookies](https://leetcode.com/problems/assign-cookies)
 - [ ] [Is Subsequence](https://leetcode.com/problems/is-subsequence)
 - [ ] [Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons)
