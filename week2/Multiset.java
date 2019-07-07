@@ -1,112 +1,90 @@
-class Solution {
-    public String countOfAtoms(String formula) {
-        Multiset<String> elements = parseFormula(formula);
-        // Create a sorted array of the elements in elements.elementSet()
-        String[] items = new String[elements.elementSet().size()];
-        int i = 0;
-        for (String item : elements.elementSet()) {
-            items[i++] = item;
+class Multiset<T> {
+    HashMap<T, Integer> map;
+
+    public Multiset() {
+        map = new HashMap<T, Integer>();
+    }
+
+    public void add(T element) {
+        if (map.containsKey(element)) {
+            map.put(element, map.get(element) + 1);
+        } else {
+            map.put(element, 1);
         }
-        Arrays.sort(items);
-        StringBuilder result = new StringBuilder();
-        // For each item in array, append item, count to result
-        for (String item : items) {
-            int count = elements.count(item);
-            if (count == 1) {
-                result.append(item);
-            } else {
-                result.append(item + count);   
+    }
+
+    public void add(T element, int n) {
+        if (map.containsKey(element)) {
+            map.put(element, map.get(element) + n);
+        } else {
+            map.put(element, n);
+        }
+    }
+
+    public boolean contains(T element) {
+        return map.containsKey(element);
+    }
+
+    public boolean containsAll(List<T> list) {
+        for (T item : list) {
+            if (!map.containsKey(item)) {
+                return false;
             }
         }
-        return result.toString();
+        return true;
+    }
+
+    public int count(T element) {
+        return map.get(element);
+    }
+
+    public Set<T> elementSet() {
+        return map.keySet();
+    }
+
+    public Set<Map.Entry<T, Integer>> entrySet() {
+        return map.entrySet();
+    }
+
+    public void remove(T element) {
+        map.put(element, map.get(element) - 1);
+        if (map.get(element) <= 0) {
+            map.remove(element);
+        }
+    }
+
+    public int size() {
+        int size = 0;
+        for (T element : map.keySet()) {
+            size += map.get(element);
+        }
+        return size;
+    }
+
+    public boolean setCount(T element, int oldCount, int newCount) {
+        if (map.get(element) >= oldCount) {
+            map.put(element, newCount);
+            return true;
+        } else {
+            return false;
+        }
+    }
+
+    public boolean equals(Multiset<T> multiset) {
+        if (multiset.size() != this.size() || multiset.elementSet().size() != this.elementSet().size()) {
+            return false;
+        }
+        for (T element : multiset.elementSet()) {
+            if (!this.contains(element)) {
+                return false;
+            } else if (this.count(element) != multiset.count(element)) {
+                return false;
+            }
+        }
+        return true;
     }
     
-    public Multiset<String> parseFormula(String formula) {
-        Multiset<String> elements = new Multiset<>();
-        Stack<Multiset<String>> stack = new Stack<>();
-        Multiset<String> map = new Multiset<>();
-        StringBuilder s = new StringBuilder();
-        // Iterate over formula
-        int i = 0;
-        while (i < formula.length()) {
-            char c = formula.charAt(i);
-            if (c == '(') {
-                if (s.length() > 0) {
-                    // Put current atom onto map
-                    map.add(s.toString());
-                    // Reset atom string builder s
-                    s.setLength(0);   
-                }
-                // Put current map onto stack, empty map
-                if (map.size() > 0) {
-                    stack.push(map); 
-                }
-                map = new Multiset<String>(); 
-            } else if (c == ')') {
-                // Clear s and if it exists
-                if (s.length() > 0) {
-                    // Put current atom onto map
-                    map.add(s.toString());
-                    // Reset atom string builder s
-                    s.setLength(0);
-                }
-                // Put current map onto stack, empty map
-                stack.push(map);
-                map = new Multiset<String>();
-                
-            } else if (Character.isDigit(c)) {
-                int num = Character.getNumericValue(c);
-                // If s not empty, add s to map
-                if (s.length() > 0) {
-                    // Put current atom onto map
-                    map.add(s.toString(), num);
-                    // Clear s
-                    s.setLength(0);
-                } else {
-                    // Multiply everything in stack top by num
-                    Multiset<String> mapToIncrement = stack.pop();
-                    for (String atomName : mapToIncrement.elementSet()) {
-                        mapToIncrement.setCount(atomName, 0, mapToIncrement.count(atomName) * num);
-                    }
-                    // Push incremented map back onto stack
-                    stack.push(mapToIncrement);
-                }
-            } else if (Character.isUpperCase(c)) {
-                if (s.length() > 0) {
-                    // Put current atom onto map
-                    map.add(s.toString());
-                    // Reset atom string builder s
-                    s.setLength(0);   
-                }
-                // Initialize s with current
-                s.append(c);
-            } else if (Character.isLowerCase(c)) {
-                s.append(c);
-            }
-            i++;
-        }
-        
-        // Add any trailing atom names
-        if (s.length() > 0) {
-            map.add(s.toString());
-            s.setLength(0);
-        }
-        
-        // Add contents of map to elements
-        if (map.size() > 0) {
-            for (String atomName : map.elementSet()) {
-                elements.add(atomName, map.count(atomName));
-            }
-        }
-        
-        // Merge all multisets into elements
-        while (!stack.empty()) {
-            Multiset<String> setToMerge = stack.pop();
-            for (String atomName : setToMerge.elementSet()) {
-                elements.add(atomName, setToMerge.count(atomName));
-            }
-        }
-        
-        return elements;
+    public void clear() {
+        map.clear();
     }
 }
