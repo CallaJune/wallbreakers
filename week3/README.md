@@ -12,7 +12,7 @@ Problems are grouped by applicable problem solving strategy here. Within each gr
 
 ### Greedy algorithms
 - [x] [Lemonate Change](https://leetcode.com/problems/lemonade-change) ([Solution](lemonade-change.java))
-- [ ] [Assign Cookies](https://leetcode.com/problems/assign-cookies)
+- [x] [Assign Cookies](https://leetcode.com/problems/assign-cookies) ([Solution](assign-cookies.java))
 - [ ] [Is Subsequence](https://leetcode.com/problems/is-subsequence)
 - [ ] [Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons)
 - [ ] [Partition Labels](https://leetcode.com/problems/partition-labels)
