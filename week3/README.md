@@ -24,7 +24,7 @@ Problems are grouped by applicable problem solving strategy here. Within each gr
 ### Sorting
 - [x] [Valid Anagram](https://leetcode.com/problems/valid-anagram) ([Solution](valid-anagram.java))
 - [x] [Array Partition I](https://leetcode.com/problems/array-partition-i) ([Solution](array-partition-i.java))
-- [ ] [Merge Intervals](https://leetcode.com/problems/merge-intervals)
+- [x] [Merge Intervals](https://leetcode.com/problems/merge-intervals) ([Solution](merge-intervals.java))
 	- Use sorting, not a multiset (you solved this problem using a multiset last week) 
 - [x] [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string) ([Solution](find-all-anagrams-in-a-string.java))
 
