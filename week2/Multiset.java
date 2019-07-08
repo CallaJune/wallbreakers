@@ -1,86 +1,90 @@
 class Multiset<T> {
-	HashMap<T, Integer> map;
+    HashMap<T, Integer> map;
 
-	public Multiset() {
-		map = new HashMap<T, Integer>();
-	}
+    public Multiset() {
+        map = new HashMap<T, Integer>();
+    }
 
-	public void add(T element) {
-		if (map.containsKey(element)) {
-			map.put(element, map.get(element) + 1);
-		} else {
-			map.put(element, 1);
-		}
-	}
+    public void add(T element) {
+        if (map.containsKey(element)) {
+            map.put(element, map.get(element) + 1);
+        } else {
+            map.put(element, 1);
+        }
+    }
 
-	public void add(T element, int n) {
-		if (map.containsKey(element)) {
-			map.put(element, map.get(element) + n);
-		} else {
-			map.put(element, n);
-		}
-	}
+    public void add(T element, int n) {
+        if (map.containsKey(element)) {
+            map.put(element, map.get(element) + n);
+        } else {
+            map.put(element, n);
+        }
+    }
 
-	public boolean contains(T element) {
-		return map.containsKey(element);
-	}
+    public boolean contains(T element) {
+        return map.containsKey(element);
+    }
 
-	public boolean containsAll(List<T> list) {
-		for (T item : list) {
-			if (!map.containsKey(item)) {
-				return false;
-			}
-		}
-		return true;
-	}
+    public boolean containsAll(List<T> list) {
+        for (T item : list) {
+            if (!map.containsKey(item)) {
+                return false;
+            }
+        }
+        return true;
+    }
 
-	public int count(T element) {
-		return map.get(element);
-	}
+    public int count(T element) {
+        return map.get(element);
+    }
 
-	public Set<T> elementSet() {
-		return map.keySet();
-	}
+    public Set<T> elementSet() {
+        return map.keySet();
+    }
 
-	public Set<Map.Entry<T, Integer>> entrySet() {
-		return map.entrySet();
-	}
+    public Set<Map.Entry<T, Integer>> entrySet() {
+        return map.entrySet();
+    }
 
-	public void remove(T element) {
-		map.put(element, map.get(element) - 1);
-		if (map.get(element) <= 0) {
-			map.remove(element);
-		}
-	}
+    public void remove(T element) {
+        map.put(element, map.get(element) - 1);
+        if (map.get(element) <= 0) {
+            map.remove(element);
+        }
+    }
 
-	public int size() {
-		int size = 0;
-		for (T element : map.keySet()) {
-			size += map.get(element);
-		}
-		return size;
-	}
+    public int size() {
+        int size = 0;
+        for (T element : map.keySet()) {
+            size += map.get(element);
+        }
+        return size;
+    }
 
-	public boolean setCount(T element, int oldCount, int newCount) {
-		if (map.get(element) >= oldCount) {
-			map.put(element, newCount);
-			return true;
-		} else {
-			return false;
-		}
-	}
+    public boolean setCount(T element, int oldCount, int newCount) {
+        if (map.get(element) >= oldCount) {
+            map.put(element, newCount);
+            return true;
+        } else {
+            return false;
+        }
+    }
 
-	public boolean equals(Multiset<T> multiset) {
-		if (multiset.size() != this.size() || multiset.elementSet().size() != this.elementSet().size()) {
-			return false;
-		}
-		for (T element : multiset.elementSet()) {
-			if (!this.contains(element)) {
-				return false;
-			} else if (this.count(element) != multiset.count(element)) {
-				return false;
-			}
-		}
-		return true;
-	}
+    public boolean equals(Multiset<T> multiset) {
+        if (multiset.size() != this.size() || multiset.elementSet().size() != this.elementSet().size()) {
+            return false;
+        }
+        for (T element : multiset.elementSet()) {
+            if (!this.contains(element)) {
+                return false;
+            } else if (this.count(element) != multiset.count(element)) {
+                return false;
+            }
+        }
+        return true;
+    }
+    
+    public void clear() {
+        map.clear();
+    }
 }

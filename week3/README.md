@@ -11,8 +11,8 @@ By the end of this week, you should feel confident in noticing when greedy algor
 Problems are grouped by applicable problem solving strategy here. Within each group problems appear in roughly increasing order of difficulty. If you get stuck on a problem in one group, you can switch to a problem in another group and go back later. This can help make sure you keep making progress.
 
 ### Greedy algorithms
-- [ ] [Lemonate Change](https://leetcode.com/problems/lemonade-change)
-- [ ] [Assign Cookies](https://leetcode.com/problems/assign-cookies)
+- [x] [Lemonate Change](https://leetcode.com/problems/lemonade-change) ([Solution](lemonade-change.java))
+- [x] [Assign Cookies](https://leetcode.com/problems/assign-cookies) ([Solution](assign-cookies.java))
 - [ ] [Is Subsequence](https://leetcode.com/problems/is-subsequence)
 - [ ] [Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons)
 - [ ] [Partition Labels](https://leetcode.com/problems/partition-labels)
@@ -26,7 +26,7 @@ Problems are grouped by applicable problem solving strategy here. Within each gr
 - [x] [Array Partition I](https://leetcode.com/problems/array-partition-i) ([Solution](array-partition-i.java))
 - [ ] [Merge Intervals](https://leetcode.com/problems/merge-intervals)
 	- Use sorting, not a multiset (you solved this problem using a multiset last week) 
-- [ ] [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string)
+- [x] [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string) ([Solution](find-all-anagrams-in-a-string.java))
 
 ### Recursion and memoization
 Make sure you use memoization if applicable for the problems below

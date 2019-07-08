@@ -5,7 +5,7 @@ Hash maps and hash sets are arguably the most important data structures you will
 
 ## Week 2 Checklist
 - Solve as many of the problems listed below as you can by EOD Friday, July 5th.
-- Complete the [weekly progress report](https://forms.gle/svryhNANMeCcKxE17) form by EOD Friday, July 5th.
+- Complete the [weekly progress report](https://docs.google.com/forms/d/e/1FAIpQLSfFzB8ZweISwA411mYzoVffkk3qL9UHgvO1a0Sp8vpkHqvrkQ/viewform) form by EOD Friday, July 5th.
 
 ## Week #2 Coding Exercises
 
@@ -33,13 +33,13 @@ Hash maps and hash sets are arguably the most important data structures you will
 - [x] [Sort Characters by Frequency](https://leetcode.com/problems/sort-characters-by-frequency/) ([Solution](sort-characters-by-frequency.java))
 - [x] [Set Mismatch](https://leetcode.com/problems/set-mismatch/) ([Solution](set-mismatch.java))
 	- Note: This one has a few “clever” solutions but feel free to use a simple multiset solution.
-- [ ] [Number of Atoms](https://leetcode.com/problems/number-of-atoms/) ([Solution](number-of-atoms.java))
+- [x] [Number of Atoms](https://leetcode.com/problems/number-of-atoms/) ([Solution](number-of-atoms.java))
 	- Note: This one is more difficult than the average interview question but it is good exercise! You will need to build a simple parser in addition to using a multiset.
 
 ### Tries
-- [ ] [Longest Word in a Dictionary](https://leetcode.com/problems/longest-word-in-dictionary)
-- [ ] [Implement Trie Prefix Tree](https://leetcode.com/problems/implement-trie-prefix-tree)
-- [ ] [Word Search II](https://leetcode.com/problems/word-search-ii)
+- [x] [Longest Word in a Dictionary](https://leetcode.com/problems/longest-word-in-dictionary) ([Solution](longest-word-in-dictionary.java))
+- [x] [Implement Trie Prefix Tree](https://leetcode.com/problems/implement-trie-prefix-tree) ([Solution](implement-trie-prefix-tree.java))
+- [x] [Word Search II](https://leetcode.com/problems/word-search-ii) ([Solution](word-search-ii.java))
 
 ## Resources
 - Python Resources
