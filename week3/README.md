@@ -15,7 +15,7 @@ Problems are grouped by applicable problem solving strategy here. Within each gr
 - [x] [Assign Cookies](https://leetcode.com/problems/assign-cookies) ([Solution](assign-cookies.java))
 - [x] [Is Subsequence](https://leetcode.com/problems/is-subsequence) ([Solution](is-subsequence.java))
 - [x] [Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons) ([Solution](minimum-number-of-arrows-to-burst-balloons.java))
-- [ ] [Partition Labels](https://leetcode.com/problems/partition-labels)
+- [x] [Partition Labels](https://leetcode.com/problems/partition-labels) ([Solution](partition-labels.java))
 
 ### Binary search
 - [x] [Binary Search](https://leetcode.com/problems/binary-search) ([Solution](binary-search.java))
