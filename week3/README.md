@@ -34,7 +34,7 @@ Make sure you use memoization if applicable for the problems below
 - [x] [Pow(x,n)](https://leetcode.com/problems/powx-n) ([Solution](powx-n.java))
 - [ ] [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)
 - [ ] [Edit Distance](https://leetcode.com/problems/edit-distance)
-- [ ] [House Robber II](https://leetcode.com/problems/house-robber-ii)
+- [ ] [House Robber II](https://leetcode.com/problems/house-robber-ii) ([Solution](house-robber-ii.java))
 	- Do not use a built-in regex for this one: https://leetcode.com/problems/regular-expression-matching/
 
 ### Dynamic Programming
@@ -42,7 +42,7 @@ Same problems as above, but use dynamic programming this time
 
 - [x] [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) ([Solution](best-time-to-buy-and-sell-stock.java))
 - [ ] [Edit Distance](https://leetcode.com/problems/edit-distance)
-- [ ] [House Robber II](https://leetcode.com/problems/house-robber-ii)
+- [x] [House Robber II](https://leetcode.com/problems/house-robber-ii) ([Solution](house-robber-ii.java))
 	- Do not use a built-in regex for [this one](https://leetcode.com/problems/regular-expression-matching/)
 
 ## Resources
