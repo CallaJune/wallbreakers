@@ -24,7 +24,7 @@ Problems are grouped by applicable problem solving strategy here. Within each gr
 - [ ] [Score of Parentheses](https://leetcode.com/problems/score-of-parentheses)
 
 ### Queues
-- [ ] [Implement Stack Using Queues](https://leetcode.com/problems/implement-stack-using-queues/)
+- [x] [Implement Stack Using Queues](https://leetcode.com/problems/implement-stack-using-queues/) ([Solution](implement-stack-using-queues.java))
 - [ ] [Implement Queue Using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)
 - [x] [Rotate Array](https://leetcode.com/problems/rotate-array) ([Solution](rotate-array.java))
 
