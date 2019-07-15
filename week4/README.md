@@ -25,7 +25,7 @@ Problems are grouped by applicable problem solving strategy here. Within each gr
 
 ### Queues
 - [x] [Implement Stack Using Queues](https://leetcode.com/problems/implement-stack-using-queues/) ([Solution](implement-stack-using-queues.java))
-- [ ] [Implement Queue Using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)
+- [x] [Implement Queue Using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) ([Solution](implement-queue-using-stacks.java))
 - [x] [Rotate Array](https://leetcode.com/problems/rotate-array) ([Solution](rotate-array.java))
 
 ### Heaps
