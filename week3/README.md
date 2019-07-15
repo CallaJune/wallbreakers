@@ -4,8 +4,8 @@
 By the end of this week, you should feel confident in noticing when greedy algorithms, recursion and memoization, or dynamic programming are applicable strategies to solving problems. By the end of this week you should be able to feel comfortable implementing those strategies in your language of choice. We will also spend some time on sorting and search (binary searching in particular) to make sure you know when and how to use them.
 
 ## Week 3 Checklist
-- [ ] Solve as many of the problems listed below as you can by EOD Sunday.
-- [ ] Complete the weekly progress report form by EOD Sunday.
+- [x] Solve as many of the problems listed below as you can by EOD Sunday.
+- [x] Complete the weekly progress report form by EOD Sunday.
 
 ## Week #3 Coding Exercises
 Problems are grouped by applicable problem solving strategy here. Within each group problems appear in roughly increasing order of difficulty. If you get stuck on a problem in one group, you can switch to a problem in another group and go back later. This can help make sure you keep making progress.
