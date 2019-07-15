@@ -18,7 +18,7 @@ Problems are grouped by applicable problem solving strategy here. Within each gr
 	- Hint: This one is a bit harder. You will need to use a doubly linked list and a hash map to get O(1) time complexity for both operations.
 
 ### Stacks
-- [ ] [Baseball Game](https://leetcode.com/problems/baseball-game)
+- [x] [Baseball Game](https://leetcode.com/problems/baseball-game) ([Solution](baseball-game.java))
 - [ ] [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i)
 - [x] [Valid Parentheses](https://leetcode.com/problems/valid-parentheses) ([Solution](valid-parentheses.java))
 - [ ] [Score of Parentheses](https://leetcode.com/problems/score-of-parentheses)
