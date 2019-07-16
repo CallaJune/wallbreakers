@@ -8,6 +8,7 @@ class Solution {
         } else if (nums.length == 2) {
             return Math.max(nums[0], nums[1]);
         }
+        // Return the max of house robber on houses 0 - n-1 and 1 - n, such that n = number of houses
         return Math.max(robHouses(Arrays.copyOfRange(nums, 0, nums.length - 1)), robHouses(Arrays.copyOfRange(nums, 1, nums.length)));
     }
 
@@ -19,6 +20,7 @@ class Solution {
         } else if (nums.length == 1) {
             return nums[0];
         }
+        // Create a memoization array with initial values
         int[] mem = new int[nums.length];
         mem[0] = nums[0];
         mem[1] = Math.max(nums[0], nums[1]);
@@ -29,6 +31,9 @@ class Solution {
         if (n == nums.length) {
             return mem[mem.length - 1];
         } else {
+            // Choose whichever is larger: current house and houses 
+            // not including the previous house or solution including the
+            // previous house
             int max = Math.max(nums[n] + mem[n - 2], mem[n - 1]);
             mem[n] = max;
             return robHouses(nums, mem, n + 1);

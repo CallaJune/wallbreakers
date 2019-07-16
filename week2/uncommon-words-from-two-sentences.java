@@ -1,5 +1,6 @@
 class Solution {
     public String[] uncommonFromSentences(String A, String B) {
+        // Populate word frequency hashmaps for A and B
         HashMap<String, Integer> map1 = new HashMap<>();
         HashMap<String, Integer> map2 = new HashMap<>();
         populateSentenceSet(A, map1);
@@ -24,6 +25,7 @@ class Solution {
         return result;
     }
     
+    // Populate map with words in sentence as keys and frequencies as values
     public void populateSentenceSet(String sentence, HashMap<String, Integer> map) {
         String[] words = sentence.split(" ");
         for (String s : words) {

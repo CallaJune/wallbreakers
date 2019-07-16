@@ -7,6 +7,7 @@ class Solution {
         return set.size();
     }
     
+    // Transform word into morse code
     public String transform(String word) {
         String[] morse = {".-","-...","-.-.","-..",".","..-.","--.","....","..",".---","-.-",".-..","--","-.","---",".--.","--.-",".-.","...","-","..-","...-",".--","-..-","-.--","--.."};
         StringBuilder sb = new StringBuilder();

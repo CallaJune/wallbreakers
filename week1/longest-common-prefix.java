@@ -5,8 +5,9 @@ class Solution {
         // Set prefix to first string in strs
         StringBuilder prefix = new StringBuilder(strs[0]);
         for (String s : strs) {
-            if (prefix.length() < 1)
+            if (prefix.length() < 1) {
                 return "";
+            }
             // Truncate prefix if necessary
             if (prefix.length() > s.length()) {
                 prefix.delete(s.length(), prefix.length());
