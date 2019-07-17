@@ -33,9 +33,9 @@ Problems are grouped by applicable problem solving strategy here. Within each gr
 - [ ] [Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists)
 
 ### Combinatorial generation
-- [ ] [Subsets](https://leetcode.com/problems/subsets)
-- [ ] [Permutations](https://leetcode.com/problems/permutations)
-- [ ] [Combinations](https://leetcode.com/problems/combinations)
+- [ ] [Subsets](https://leetcode.com/problems/subsets) ([Solution](subsets.java))
+- [x] [Permutations](https://leetcode.com/problems/permutations) ([Solution](permutations.java))
+- [ ] [Combinations](https://leetcode.com/problems/combinations) ([Solution](combinations.java))
 - [ ] [Generate Parentheses](https://leetcode.com/problems/generate-parentheses)
 - [ ] [Gray Code](https://leetcode.com/problems/gray-code)
 
