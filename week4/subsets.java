@@ -37,5 +37,4 @@ class Solution {
  * valid subset), and then we add the next item in nums (by starting at index + 1 in nums)
  * to the subset before continuing the process. We do not add duplicate items to our subset
  * lists because we only add items in nums that come after previously added items.
- *
  */
