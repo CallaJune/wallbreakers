@@ -25,7 +25,7 @@ class Solution {
 }
 
 /* Note: what differentiates this from the permutations problem in permutations.java
- * lie in lines 10 and 14. In 10, we add the current list to the result only once
+ * lie in lines 10 and 14. In permutations, we add the current list to the result only once
  * it contains all items in nums. Here, we include the current subset in the result
  * before doing any additional work as it is already a valid subset.
  * In line 14, we only iterate over all items that come after the current subset's size.
