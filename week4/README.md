@@ -19,7 +19,7 @@ Problems are grouped by applicable problem solving strategy here. Within each gr
 
 ### Stacks
 - [x] [Baseball Game](https://leetcode.com/problems/baseball-game) ([Solution](baseball-game.java))
-- [ ] [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i)
+- [x] [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i) ([Solution](next-greater-element-i.java))
 - [x] [Valid Parentheses](https://leetcode.com/problems/valid-parentheses) ([Solution](valid-parentheses.java))
 - [ ] [Score of Parentheses](https://leetcode.com/problems/score-of-parentheses)
 
