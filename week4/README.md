@@ -14,14 +14,14 @@ Problems are grouped by applicable problem solving strategy here. Within each gr
 - [x] [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list) ([Solution](reverse-linked-list.java))
 - [x] [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list) ([Solution](odd-even-linked-list.java))
 - [ ] [Reverse Nodes in K Group](https://leetcode.com/problems/reverse-nodes-in-k-group)
-- [x] [LRU Cache](https://leetcode.com/problems/lru-cache) ([Solution](lru-cache.java))
+- [ ] [LRU Cache](https://leetcode.com/problems/lru-cache) ([Solution](lru-cache.java))
 	- Hint: This one is a bit harder. You will need to use a doubly linked list and a hash map to get O(1) time complexity for both operations.
 
 ### Stacks
 - [x] [Baseball Game](https://leetcode.com/problems/baseball-game) ([Solution](baseball-game.java))
 - [x] [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i) ([Solution](next-greater-element-i.java))
 - [x] [Valid Parentheses](https://leetcode.com/problems/valid-parentheses) ([Solution](valid-parentheses.java))
-- [ ] [Score of Parentheses](https://leetcode.com/problems/score-of-parentheses)
+- [x] [Score of Parentheses](https://leetcode.com/problems/score-of-parentheses) ([Solution](score-of-parentheses.java))
 
 ### Queues
 - [x] [Implement Stack Using Queues](https://leetcode.com/problems/implement-stack-using-queues/) ([Solution](implement-stack-using-queues.java))
