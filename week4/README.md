@@ -41,8 +41,8 @@ Problems are grouped by applicable problem solving strategy here. Within each gr
 
 ### Backtracking
 - [x] [Combination Sum](https://leetcode.com/problems/combination-sum) ([Solution](combination-sum.java))
-- [ ] [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum)
-- [ ] [Partition to K Equal Sum Subsets](https://leetcode.com/problems/partition-to-k-equal-sum-subsets)
+- [x] [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum) ([Solution](partition-equal-subset-sum.java))
+- [x] [Partition to K Equal Sum Subsets](https://leetcode.com/problems/partition-to-k-equal-sum-subsets) ([Solution](partition-to-k-equal-sum-subsets.java))
 - [ ] [Sudoku Solver](https://leetcode.com/problems/sudoku-solver)
 
 ## Resources
