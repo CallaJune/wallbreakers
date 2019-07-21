@@ -40,7 +40,7 @@ Problems are grouped by applicable problem solving strategy here. Within each gr
 - [x] [Gray Code](https://leetcode.com/problems/gray-code) ([Solution](gray-code.java))
 
 ### Backtracking
-- [ ] [Combination Sum](https://leetcode.com/problems/combination-sum)
+- [x] [Combination Sum](https://leetcode.com/problems/combination-sum) ([Solution](combination-sum.java))
 - [ ] [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum)
 - [ ] [Partition to K Equal Sum Subsets](https://leetcode.com/problems/partition-to-k-equal-sum-subsets)
 - [ ] [Sudoku Solver](https://leetcode.com/problems/sudoku-solver)
