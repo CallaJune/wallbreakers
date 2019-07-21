@@ -37,7 +37,7 @@ Problems are grouped by applicable problem solving strategy here. Within each gr
 - [x] [Permutations](https://leetcode.com/problems/permutations) ([Solution](permutations.java))
 - [x] [Combinations](https://leetcode.com/problems/combinations) ([Solution](combinations.java))
 - [x] [Generate Parentheses](https://leetcode.com/problems/generate-parentheses) ([Solution](generate-parentheses.java))
-- [ ] [Gray Code](https://leetcode.com/problems/gray-code)
+- [x] [Gray Code](https://leetcode.com/problems/gray-code) ([Solution](gray-code.java))
 
 ### Backtracking
 - [ ] [Combination Sum](https://leetcode.com/problems/combination-sum)
