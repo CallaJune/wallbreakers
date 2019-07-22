@@ -43,7 +43,7 @@ Problems are grouped by applicable problem solving strategy here. Within each gr
 - [x] [Combination Sum](https://leetcode.com/problems/combination-sum) ([Solution](combination-sum.java))
 - [x] [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum) ([Solution](partition-equal-subset-sum.java))
 - [x] [Partition to K Equal Sum Subsets](https://leetcode.com/problems/partition-to-k-equal-sum-subsets) ([Solution](partition-to-k-equal-sum-subsets.java))
-- [ ] [Sudoku Solver](https://leetcode.com/problems/sudoku-solver)
+- [x] [Sudoku Solver](https://leetcode.com/problems/sudoku-solver) ([Solution](sudoku-solver.java))
 
 ## Resources
 - [Data Structures In Python: Linked Lists](https://medium.com/@kojinoshiba/data-structures-in-python-series-1-linked-lists-d9f848537b4d)
