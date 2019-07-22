@@ -4,8 +4,8 @@
 This week we will look at a few more data structures and how to use them to solve various problems. Data structures we will look at are linked lists, stacks, heaps, and queues. This week we will also look at combinatorial generation and backtracking as problem solving strategies. By the end of the week, we want you to be able to notice when linked lists, stacks, heaps and queues are useful to solve the problem, and to use all those data structures in your language of choice with confidence. We also want you to gain some experience solving basic combinatorial generation and backtracking problems.
 
 ## Week 4 Checklist
-- [ ] Solve as many of the problems listed below as you can by EOD Sunday.
-- [ ] Complete the weekly progress report form by EOD Sunday.
+- [x] Solve as many of the problems listed below as you can by EOD Sunday.
+- [x] Complete the weekly progress report form by EOD Sunday.
 
 ## Week #4 Coding Exercises
 Problems are grouped by applicable problem solving strategy here. Within each group problems appear in roughly increasing order of difficulty. If you get stuck on a problem in one group, you can switch to a problem in another group and go back later. This can help make sure you keep making progress.
@@ -13,7 +13,7 @@ Problems are grouped by applicable problem solving strategy here. Within each gr
 ### Linked lists
 - [x] [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list) ([Solution](reverse-linked-list.java))
 - [x] [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list) ([Solution](odd-even-linked-list.java))
-- [ ] [Reverse Nodes in K Group](https://leetcode.com/problems/reverse-nodes-in-k-group)
+- [x] [Reverse Nodes in K Group](https://leetcode.com/problems/reverse-nodes-in-k-group) ([Solution](reverse-nodes-in-k-group.java))
 - [x] [LRU Cache](https://leetcode.com/problems/lru-cache) ([Solution](lru-cache.java))
 	- Hint: This one is a bit harder. You will need to use a doubly linked list and a hash map to get O(1) time complexity for both operations.
 
