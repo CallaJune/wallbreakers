@@ -9,7 +9,7 @@ Whether it's the graph of all websites and hyperlinks as used by Google to rank 
 - [ ] [N-ary Tree Postorder Traversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal)
 - [ ] [Leaf Similar Trees](https://leetcode.com/problems/leaf-similar-trees)
 - [ ] [Same Tree](https://leetcode.com/problems/same-tree)
-- [ ] [Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves)
+- [x] [Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves)
 - [ ] [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree)
 - [ ] [Longest Univalue Path](https://leetcode.com/problems/longest-univalue-path)
 - [ ] [Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value)
