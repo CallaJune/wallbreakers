@@ -7,7 +7,7 @@ Whether it's the graph of all websites and hyperlinks as used by Google to rank 
 
 ### Trees
 - [x] [N-ary Tree Postorder Traversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal) ([Solution](n-ary-tree-postorder-traversal.java))
-- [ ] [Leaf Similar Trees](https://leetcode.com/problems/leaf-similar-trees)
+- [x] [Leaf Similar Trees](https://leetcode.com/problems/leaf-similar-trees) ([Solution](leaf-similar-trees.java))
 - [ ] [Same Tree](https://leetcode.com/problems/same-tree)
 - [x] [Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves)
 - [ ] [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree)
