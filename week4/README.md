@@ -29,7 +29,7 @@ Problems are grouped by applicable problem solving strategy here. Within each gr
 - [x] [Rotate Array](https://leetcode.com/problems/rotate-array) ([Solution](rotate-array.java))
 
 ### Heaps
-- [ ] [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements)
+- [x] [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements) ([Solution](top-k-frequent-elements.java))
 - [x] [Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists) ([Solution](merge-k-sorted-lists.java))
 
 ### Combinatorial generation
