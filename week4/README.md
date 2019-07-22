@@ -14,7 +14,7 @@ Problems are grouped by applicable problem solving strategy here. Within each gr
 - [x] [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list) ([Solution](reverse-linked-list.java))
 - [x] [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list) ([Solution](odd-even-linked-list.java))
 - [ ] [Reverse Nodes in K Group](https://leetcode.com/problems/reverse-nodes-in-k-group)
-- [ ] [LRU Cache](https://leetcode.com/problems/lru-cache) ([Solution](lru-cache.java))
+- [x] [LRU Cache](https://leetcode.com/problems/lru-cache) ([Solution](lru-cache.java))
 	- Hint: This one is a bit harder. You will need to use a doubly linked list and a hash map to get O(1) time complexity for both operations.
 
 ### Stacks
