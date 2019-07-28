@@ -20,7 +20,7 @@ Whether it's the graph of all websites and hyperlinks as used by Google to rank 
 - [x] [Is Graph Bipartite](https://leetcode.com/problems/is-graph-bipartite) ([Solution](is-graph-bipartite.java))
 - [x] [Word Search](https://leetcode.com/problems/word-search) ([Solution](word-search.java))
 - [x] [Course Schedule II](https://leetcode.com/problems/course-schedule-ii) ([Solution](course-schedule-ii.java))
-- [ ] [Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix)
+- [x] [Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix) ([Solution](longest-increasing-path-in-a-matrix.java))
 - [ ] [Network Delay Time](https://leetcode.com/problems/network-delay-time/)
 
 ## Resources
