@@ -16,7 +16,7 @@ Whether it's the graph of all websites and hyperlinks as used by Google to rank 
 
 ### Graphs
 - [x] [Course Schedule](https://leetcode.com/problems/course-schedule) ([Solution](course-schedule.java))
-- [ ] [Island Perimeter](https://leetcode.com/problems/island-perimeter)
+- [x] [Island Perimeter](https://leetcode.com/problems/island-perimeter) ([Solution](island-perimeter.java))
 - [ ] [Is Graph Bipartite](https://leetcode.com/problems/is-graph-bipartite)
 - [x] [Word Search](https://leetcode.com/problems/word-search) ([Solution](word-search.java))
 - [x] [Course Schedule II](https://leetcode.com/problems/course-schedule-ii) ([Solution](course-schedule-ii.java))
