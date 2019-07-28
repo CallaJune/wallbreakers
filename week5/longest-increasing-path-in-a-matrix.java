@@ -1,4 +1,9 @@
 public class Solution {
+    /* Do a depth first search (dfs) on each index of matrix,
+     * following it in each direction so long as conditions are met
+     * (path increases) and backtracking when conditions are no longer met.
+     * Memoize answer in parallel matrix.
+     */
     public int longestIncreasingPath(int[][] matrix) {
         if (matrix == null || matrix.length == 0) {
             return 0;
