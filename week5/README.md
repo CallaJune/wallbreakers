@@ -19,7 +19,7 @@ Whether it's the graph of all websites and hyperlinks as used by Google to rank 
 - [ ] [Island Perimeter](https://leetcode.com/problems/island-perimeter)
 - [ ] [Is Graph Bipartite](https://leetcode.com/problems/is-graph-bipartite)
 - [x] [Word Search](https://leetcode.com/problems/word-search) ([Solution](word-search.java))
-- [ ] [Course Schedule II](https://leetcode.com/problems/course-schedule-ii)
+- [x] [Course Schedule II](https://leetcode.com/problems/course-schedule-ii) ([Solution](course-schedule-ii.java))
 - [ ] [Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix)
 - [ ] [Network Delay Time](https://leetcode.com/problems/network-delay-time/)
 
