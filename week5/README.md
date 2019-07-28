@@ -15,7 +15,7 @@ Whether it's the graph of all websites and hyperlinks as used by Google to rank 
 - [x] [Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value) ([Solution](find-bottom-left-tree-value.java))
 
 ### Graphs
-- [ ] [Course Schedule](https://leetcode.com/problems/course-schedule)
+- [x] [Course Schedule](https://leetcode.com/problems/course-schedule) ([Solution](course-schedule.java))
 - [ ] [Island Perimeter](https://leetcode.com/problems/island-perimeter)
 - [ ] [Is Graph Bipartite](https://leetcode.com/problems/is-graph-bipartite)
 - [x] [Word Search](https://leetcode.com/problems/word-search) ([Solution](word-search.java))
