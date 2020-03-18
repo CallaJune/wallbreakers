@@ -1,5 +1,4 @@
 # Unit 1
-
 ## Coding exercises
 ### Arrays:
 - [ ] [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity) ([Solution]())
@@ -8,7 +7,7 @@
 
 ### Basic math:
 - [ ] [Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers) ([Solution]())
-- [ ] [Fizz Buzz](https://leetcode.com/problems/fizz-buzz) ([Solution]())
+- [ ] [Fizz Buzz](https://leetcode.com/problems/fizz-buzz) ([Solution](fizz-buzz.py))
 - [ ] [Plus One](https://leetcode.com/problems/plus-one) ([Solution]())
 - [ ] [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number) ([Solution](excel-sheet-column-number.java))
 - [ ] [Power of Two](https://leetcode.com/problems/power-of-two) ([Solution]())
