@@ -13,7 +13,7 @@
 - [ ] [Power of Two](https://leetcode.com/problems/power-of-two) ([Solution]())
 
 ### Simple string manipulation:
-- [ ] [Reverse String](https://leetcode.com/problems/reverse-string) ([Solution]())
+- [x] [Reverse String](https://leetcode.com/problems/reverse-string) ([Solution](reverse-string.py))
 - [ ] [Detect Capital](https://leetcode.com/problems/detect-capital) ([Solution]())
 - [ ] [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii) ([Solution]())
 - [ ] [Valid Palindrome](https://leetcode.com/problems/valid-palindrome) ([Solution]())
