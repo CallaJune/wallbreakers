@@ -17,7 +17,7 @@
 - [x] [Detect Capital](https://leetcode.com/problems/detect-capital) ([Solution](detect-capital.py))
 - [x] [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii) ([Solution](reverse-words-in-a-string-iii.py))
 - [x] [Valid Palindrome](https://leetcode.com/problems/valid-palindrome) ([Solution](valid-palindrome.py))
-- [ ] [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string) ([Solution]())
+- [x] [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string) ([Solution](reverse-vowels-of-a-string.py))
 - [ ] [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix) ([Solution]())
 
 ### Simple bitwise manipulation:
