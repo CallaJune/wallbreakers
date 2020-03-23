@@ -8,4 +8,3 @@ class Solution:
             s[hi] = temp
             lo += 1
             hi -= 1
-        
