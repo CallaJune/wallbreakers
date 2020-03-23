@@ -24,7 +24,7 @@
 - [ ] [Number Complement](https://leetcode.com/problems/number-complement) ([Solution]())
 - [ ] [Hamming Distance](https://leetcode.com/problems/hamming-distance/) ([Solution]())
 - [ ] [Binary Gap](https://leetcode.com/problems/binary-gap) ([Solution]())
-- [ ] [Single Number](https://leetcode.com/problems/single-number) ([Solution]())
+- [x] [Single Number](https://leetcode.com/problems/single-number) ([Solution](single-number.py))
 
 ### Hashmaps and sets:
 - [x] [Two Sum](https://leetcode.com/problems/two-sum/) ([Solution](two-sum.py))
