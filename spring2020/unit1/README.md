@@ -28,7 +28,7 @@
 
 ### Hashmaps and sets:
 - [x] [Two Sum](https://leetcode.com/problems/two-sum/) ([Solution](two-sum.py))
-- [ ] [Valid Anagram](https://leetcode.com/problems/valid-anagram/) ([Solution]())
+- [x] [Valid Anagram](https://leetcode.com/problems/valid-anagram/) ([Solution](valid-anagram.py))
 - [ ] [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
 
 ## Resources
