@@ -7,3 +7,5 @@
 - [x] [Product Sales Analysis I](https://leetcode.com/problems/product-sales-analysis-i/) ([Solution](product-sales-analysis-i.sql))
 - [x] [Product Sales Analysis II](https://leetcode.com/problems/product-sales-analysis-i/) ([Solution](product-sales-analysis-ii.sql))
 - [x] [Find the Team Size](https://leetcode.com/problems/find-the-team-size/) ([Solution](find-the-team-size.sql))
+- [x] [Second Highest Salary](https://leetcode.com/problems/second-highest-salary/) ([Solution](second-highest-salary.sql))
+- [x] [Combine Two Tables](https://leetcode.com/problems/combine-two-tables/) ([Solution](combine-two-tables.sql))
