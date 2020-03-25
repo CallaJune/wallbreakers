@@ -10,7 +10,7 @@
 - [x] [Fizz Buzz](https://leetcode.com/problems/fizz-buzz) ([Solution](fizz-buzz.py))
 - [ ] [Plus One](https://leetcode.com/problems/plus-one) ([Solution]())
 - [ ] [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number) ([Solution](excel-sheet-column-number.java))
-- [ ] [Power of Two](https://leetcode.com/problems/power-of-two) ([Solution]())
+- [x] [Power of Two](https://leetcode.com/problems/power-of-two) ([Solution](power-of-two.py))
 
 ### Simple string manipulation:
 - [x] [Reverse String](https://leetcode.com/problems/reverse-string) ([Solution](reverse-string.py))
