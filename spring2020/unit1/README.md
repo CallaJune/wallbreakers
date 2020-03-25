@@ -1,7 +1,7 @@
 # Unit 1
 ## Coding exercises
 ### Arrays:
-- [ ] [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity) ([Solution]())
+- [x] [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity) ([Solution](sort-array-by-parity.sql))
 - [ ] [Transpose Matrix](https://leetcode.com/problems/transpose-matrix) ([Solution]())
 - [ ] [Flipping an Image](https://leetcode.com/problems/flipping-an-image) ([Solution]())
 
@@ -21,9 +21,6 @@
 - [ ] [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix) ([Solution]())
 
 ### Simple bitwise manipulation:
-- [ ] [Number Complement](https://leetcode.com/problems/number-complement) ([Solution]())
-- [ ] [Hamming Distance](https://leetcode.com/problems/hamming-distance/) ([Solution]())
-- [ ] [Binary Gap](https://leetcode.com/problems/binary-gap) ([Solution]())
 - [x] [Single Number](https://leetcode.com/problems/single-number) ([Solution](single-number.py))
 
 ### Hashmaps and sets:

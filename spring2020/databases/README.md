@@ -7,3 +7,4 @@
 - [x] [Product Sales Analysis I](https://leetcode.com/problems/product-sales-analysis-i/) ([Solution](product-sales-analysis-i.sql))
 - [x] [Product Sales Analysis II](https://leetcode.com/problems/product-sales-analysis-i/) ([Solution](product-sales-analysis-ii.sql))
 - [x] [Find the Team Size](https://leetcode.com/problems/find-the-team-size/) ([Solution](find-the-team-size.sql))
+- [x] [Game Play Analysis I](https://leetcode.com/problems/game-play-analysis-i/) ([Solution](game-play-analysis-i.sql))
