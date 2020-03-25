@@ -9,3 +9,4 @@
 - [x] [Find the Team Size](https://leetcode.com/problems/find-the-team-size/) ([Solution](find-the-team-size.sql))
 - [x] [Second Highest Salary](https://leetcode.com/problems/second-highest-salary/) ([Solution](second-highest-salary.sql))
 - [x] [Combine Two Tables](https://leetcode.com/problems/combine-two-tables/) ([Solution](combine-two-tables.sql))
+- [x] [Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers/) ([Solution](employees-earning-more-than-their-managers.sql))
