@@ -1,7 +1,7 @@
 # Unit 2
 ## Coding exercises
 ### Hash maps and hash sets
-- [ ] [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/) ([Solution]())
+- [x] [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/) ([Solution](jewels-and-stones.py))
 - [ ] [Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/) ([Solution]())
 - [ ] [Happy Number](https://leetcode.com/problems/happy-number/) ([Solution]())
 - [ ] [Uncommon Words from Two Sentences](https://leetcode.com/problems/uncommon-words-from-two-sentences/) ([Solution]())
