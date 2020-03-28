@@ -14,6 +14,7 @@
 - [ ] [Group Anagram](https://leetcode.com/problems/group-anagrams/)
 - [ ] [Design Hashmap](https://leetcode.com/problems/design-hashmap/) ([Solution]())
 - [ ] [Design Hashset](https://leetcode.com/problems/design-hashset/) ([Solution]())
+- [ ] [Sparse Matrix Multiplication](https://leetcode.com/problems/sparse-matrix-multiplication/) ([Solution](sparse-matrix-multiplication.py))
 
 ### Multisets
 - [ ] [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/) ([Solution]())
