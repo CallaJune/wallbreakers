@@ -2,7 +2,7 @@
 ## Coding exercises
 ### Hash maps and hash sets
 - [x] [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/) ([Solution](jewels-and-stones.py))
-- [ ] [Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/) ([Solution]())
+- [x] [Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/) ([Solution](unique-morse-code-words.py))
 - [ ] [Happy Number](https://leetcode.com/problems/happy-number/) ([Solution]())
 - [ ] [Uncommon Words from Two Sentences](https://leetcode.com/problems/uncommon-words-from-two-sentences/) ([Solution]())
 - [ ] [Distribute Candies](https://leetcode.com/problems/distribute-candies/) ([Solution]())
