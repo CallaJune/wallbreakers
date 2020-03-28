@@ -5,4 +5,3 @@ class Solution:
             for j in range(len(A[0])):
                 B[j][i] = A[i][j]
         return B
-        
