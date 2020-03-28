@@ -2,8 +2,8 @@
 ## Coding exercises
 ### Arrays:
 - [x] [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity) ([Solution](sort-array-by-parity.sql))
-- [ ] [Transpose Matrix](https://leetcode.com/problems/transpose-matrix) ([Solution]())
-- [ ] [Flipping an Image](https://leetcode.com/problems/flipping-an-image) ([Solution]())
+- [x] [Transpose Matrix](https://leetcode.com/problems/transpose-matrix) ([Solution](transpose-matrix.py))
+- [x] [Flipping an Image](https://leetcode.com/problems/flipping-an-image) ([Solution](flipping-an-image.py))
 
 ### Basic math:
 - [x] [Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers) ([Solution](self-dividing-numbers.py))
