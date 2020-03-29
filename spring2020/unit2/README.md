@@ -19,7 +19,7 @@
 ### Multisets
 - [ ] [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/) ([Solution]())
 	- Note: Use a multiset for this one. You can also solve it without using one. How? Try to solve it both ways. How do the two solutions compare?
-- [ ] [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) ([Solution]())
+- [x] [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) ([Solution](first-unique-character-in-a-string.py))
 - [x] [Subdomain Visit Count](https://leetcode.com/problems/subdomain-visit-count/) ([Solution](subdomain-visit-count.py))
 - [x] [Find the Difference](https://leetcode.com/problems/find-the-difference/) ([Solution](find-the-difference.py))
 - [x] [Most Common Word](https://leetcode.com/problems/most-common-word/) ([Solution](most-common-word.py))
