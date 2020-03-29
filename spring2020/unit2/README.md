@@ -10,7 +10,7 @@
 - [x] [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) ([Solution](intersection-of-two-arrays.py))
 - [ ] [Validate Sudoku](https://leetcode.com/problems/valid-sudoku/) ([Solution]())
 - [x] [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) ([Solution](isomorphic-strings.py))
-- [ ] [Word Pattern](https://leetcode.com/problems/word-pattern/) ([Solution]())
+- [x] [Word Pattern](https://leetcode.com/problems/word-pattern/) ([Solution](word-pattern.py))
 - [x] [Group Anagram](https://leetcode.com/problems/group-anagrams/) ([Solution](group-anagrams.py))
 - [ ] [Design Hashmap](https://leetcode.com/problems/design-hashmap/) ([Solution]())
 - [ ] [Design Hashset](https://leetcode.com/problems/design-hashset/) ([Solution]())
