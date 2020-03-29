@@ -29,11 +29,6 @@
 - [ ] [Number of Atoms](https://leetcode.com/problems/number-of-atoms/) ([Solution]())
 	- Note: This one is more difficult than the average interview question but it is good exercise! You will need to build a simple parser in addition to using a multiset.
 
-### Tries
-- [ ] [Longest Word in a Dictionary](https://leetcode.com/problems/longest-word-in-dictionary) ([Solution]())
-- [ ] [Implement Trie Prefix Tree](https://leetcode.com/problems/implement-trie-prefix-tree) ([Solution]())
-- [ ] [Word Search II](https://leetcode.com/problems/word-search-ii) ([Solution]())
-
 ## Resources
 - Python Resources
 	- [Tutorial on dictionaries in Python (hash maps)](https://www.datacamp.com/community/tutorials/python-dictionary-tutorial)
@@ -41,6 +36,3 @@
 	- [Tutorial on sets in Python (hash sets)](https://www.datacamp.com/community/tutorials/sets-in-python)
 	- [Multisets in Python: The collections.Counter class](https://pymotw.com/2/collections/counter.html)
 		- This is a very powerful class to know how to use. Some interview problems can be solved in only a few lines of code if you know how to use this class. Make sure you know how it works and that you could implement an equivalent class if needed. A good exercise would be to implement your own Counter class that imitates collections. Counter using a dictionary as the underlying structure.
-- Tries
-	- [Trie Insert and Search](https://www.geeksforgeeks.org/trie-insert-and-search/)
-	- [A Simpler Way to Implement Trie Data Structure](https://medium.com/@info.gildacademy/a-simpler-way-to-implement-trie-data-structure-in-python-efa6a958a4f2)
