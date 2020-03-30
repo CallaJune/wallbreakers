@@ -9,13 +9,13 @@
 - [ ] [Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height/)
 
 ### Binary search
-- [ ] [Binary Search](https://leetcode.com/problems/binary-search) ([Solution]())
+- [x] [Binary Search](https://leetcode.com/problems/binary-search) ([Solution](binary-search.py))
 - [ ] [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array) ([Solution]())
 - [ ] [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)
 - [ ] [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)
 
 ### Sorting
-- [ ] [Valid Anagram](https://leetcode.com/problems/valid-anagram) ([Solution]())
+- [x] [Valid Anagram](https://leetcode.com/problems/valid-anagram) ([Solution](valid-anagram.py))
 - [ ] [Array Partition I](https://leetcode.com/problems/array-partition-i) ([Solution]())
 - [ ] [Merge Intervals](https://leetcode.com/problems/merge-intervals) ([Solution]())
 	- Use sorting, not a multiset (you solved this problem using a multiset last week) 
