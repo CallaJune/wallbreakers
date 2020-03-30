@@ -23,7 +23,7 @@
 - [x] [Subdomain Visit Count](https://leetcode.com/problems/subdomain-visit-count/) ([Solution](subdomain-visit-count.py))
 - [x] [Find the Difference](https://leetcode.com/problems/find-the-difference/) ([Solution](find-the-difference.py))
 - [x] [Most Common Word](https://leetcode.com/problems/most-common-word/) ([Solution](most-common-word.py))
-- [ ] [Sort Characters by Frequency](https://leetcode.com/problems/sort-characters-by-frequency/) ([Solution]())
+- [x] [Sort Characters by Frequency](https://leetcode.com/problems/sort-characters-by-frequency/) ([Solution](sort-characters-by-frequency.py))
 - [ ] [Set Mismatch](https://leetcode.com/problems/set-mismatch/) ([Solution]())
 	- Note: This one has a few “clever” solutions but feel free to use a simple multiset solution.
 - [ ] [Number of Atoms](https://leetcode.com/problems/number-of-atoms/) ([Solution]())
