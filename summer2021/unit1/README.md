@@ -7,13 +7,13 @@
 
 ### Basic math:
 - [ ] [Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers) ([Solution](self-dividing-numbers.py))
-- [ ] [Fizz Buzz](https://leetcode.com/problems/fizz-buzz) ([Solution](fizz-buzz.py))
+- [x] [Fizz Buzz](https://leetcode.com/problems/fizz-buzz) ([Solution](fizz-buzz.py))
 - [ ] [Plus One](https://leetcode.com/problems/plus-one) ([Solution](plus-one.py))
 - [ ] [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number) ([Solution](excel-sheet-column-number.py))
 - [ ] [Power of Two](https://leetcode.com/problems/power-of-two) ([Solution](power-of-two.py))
 
 ### Simple string manipulation:
-- [ ] [Reverse String](https://leetcode.com/problems/reverse-string) ([Solution](reverse-string.py))
+- [x] [Reverse String](https://leetcode.com/problems/reverse-string) ([Solution](reverse-string.py))
 - [ ] [Detect Capital](https://leetcode.com/problems/detect-capital) ([Solution](detect-capital.py))
 - [ ] [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii) ([Solution](reverse-words-in-a-string-iii.py))
 - [ ] [Valid Palindrome](https://leetcode.com/problems/valid-palindrome) ([Solution](valid-palindrome.py))
