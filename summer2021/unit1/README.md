@@ -24,7 +24,7 @@
 - [ ] [Single Number](https://leetcode.com/problems/single-number) ([Solution](single-number.py))
 
 ### Hashmaps and sets:
-- [ ] [Two Sum](https://leetcode.com/problems/two-sum/) ([Solution](two-sum.py))
+- [x] [Two Sum](https://leetcode.com/problems/two-sum/) ([Solution](two-sum.py))
 - [ ] [Valid Anagram](https://leetcode.com/problems/valid-anagram/) ([Solution](valid-anagram.py))
 - [ ] [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) ([Solution](longest-substring-without-repeating-characters.py))
 
