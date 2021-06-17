@@ -2,7 +2,7 @@
 ## Coding exercises
 ### Arrays:
 - [x] [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity) ([Solution](sort-array-by-parity.py))
-- [ ] [Transpose Matrix](https://leetcode.com/problems/transpose-matrix) ([Solution](transpose-matrix.py))
+- [x] [Transpose Matrix](https://leetcode.com/problems/transpose-matrix) ([Solution](transpose-matrix.py))
 - [x] [Flipping an Image](https://leetcode.com/problems/flipping-an-image) ([Solution](flipping-an-image.py))
 
 ### Basic math:
