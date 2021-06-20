@@ -7,7 +7,7 @@
 - [x] [Uncommon Words from Two Sentences](https://leetcode.com/problems/uncommon-words-from-two-sentences/) ([Solution](uncommon-words-from-two-sentences.py))
 - [ ] [Distribute Candies](https://leetcode.com/problems/distribute-candies/) ([Solution](distribute-candies.py))
 - [ ] [Groups of Special Equivalent Strings](https://leetcode.com/problems/groups-of-special-equivalent-strings/) ([Solution]())
-- [ ] [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) ([Solution](intersection-of-two-arrays.py))
+- [x] [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) ([Solution](intersection-of-two-arrays.py))
 - [ ] [Validate Sudoku](https://leetcode.com/problems/valid-sudoku/) ([Solution]())
 - [ ] [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) ([Solution](isomorphic-strings.py))
 - [ ] [Word Pattern](https://leetcode.com/problems/word-pattern/) ([Solution](word-pattern.py))
