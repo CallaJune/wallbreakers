@@ -12,8 +12,8 @@
 - [ ] [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) ([Solution](isomorphic-strings.py))
 - [ ] [Word Pattern](https://leetcode.com/problems/word-pattern/) ([Solution](word-pattern.py))
 - [ ] [Group Anagram](https://leetcode.com/problems/group-anagrams/) ([Solution](group-anagrams.py))
-- [ ] [Design Hashmap](https://leetcode.com/problems/design-hashmap/) ([Solution](design-hashmap.py))
-- [ ] [Design Hashset](https://leetcode.com/problems/design-hashset/) ([Solution](design-hashset.py))
+- [x] [Design Hashmap](https://leetcode.com/problems/design-hashmap/) ([Solution](design-hashmap.py))
+- [x] [Design Hashset](https://leetcode.com/problems/design-hashset/) ([Solution](design-hashset.py))
 - [ ] [Sparse Matrix Multiplication](https://leetcode.com/problems/sparse-matrix-multiplication/) ([Solution](sparse-matrix-multiplication.py))
 
 ### Multisets
