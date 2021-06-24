@@ -19,12 +19,12 @@
 ### Multisets
 - [ ] [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/) ([Solution]())
 	- Note: Use a multiset for this one. You can also solve it without using one. How? Try to solve it both ways. How do the two solutions compare?
-- [ ] [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) ([Solution](first-unique-character-in-a-string.py))
+- [x] [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) ([Solution](first-unique-character-in-a-string.py))
 - [ ] [Subdomain Visit Count](https://leetcode.com/problems/subdomain-visit-count/) ([Solution](subdomain-visit-count.py))
 - [x] [Find the Difference](https://leetcode.com/problems/find-the-difference/) ([Solution](find-the-difference.py))
 - [x] [Most Common Word](https://leetcode.com/problems/most-common-word/) ([Solution](most-common-word.py))
 - [ ] [Sort Characters by Frequency](https://leetcode.com/problems/sort-characters-by-frequency/) ([Solution](sort-characters-by-frequency.py))
-- [ ] [Set Mismatch](https://leetcode.com/problems/set-mismatch/) ([Solution]())
+- [x] [Set Mismatch](https://leetcode.com/problems/set-mismatch/) ([Solution](set-mismatch.py))
 	- Note: This one has a few “clever” solutions but feel free to use a simple multiset solution.
 - [ ] [Number of Atoms](https://leetcode.com/problems/number-of-atoms/) ([Solution]())
 	- Note: This one is more difficult than the average interview question but it is good exercise! You will need to build a simple parser in addition to using a multiset.
