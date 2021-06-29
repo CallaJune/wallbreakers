@@ -10,7 +10,7 @@
 
 ### Binary search
 - [x] [Binary Search](https://leetcode.com/problems/binary-search) ([Solution](binary-search.py))
-- [ ] [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array) ([Solution]())
+- [x] [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array) ([Solution](peak-index-in-a-mountain-array.py))
 - [ ] [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)
 - [ ] [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)
 
