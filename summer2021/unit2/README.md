@@ -17,7 +17,7 @@
 - [ ] [Sparse Matrix Multiplication](https://leetcode.com/problems/sparse-matrix-multiplication/) ([Solution](sparse-matrix-multiplication.py))
 
 ### Multisets
-- [ ] [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/) ([Solution]())
+- [x] [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/) ([Solution](find-all-anagrams-in-a-string.py))
 	- Note: Use a multiset for this one. You can also solve it without using one. How? Try to solve it both ways. How do the two solutions compare?
 - [x] [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) ([Solution](first-unique-character-in-a-string.py))
 - [ ] [Subdomain Visit Count](https://leetcode.com/problems/subdomain-visit-count/) ([Solution](subdomain-visit-count.py))
