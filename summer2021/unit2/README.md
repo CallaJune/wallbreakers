@@ -9,7 +9,7 @@
 - [ ] [Groups of Special Equivalent Strings](https://leetcode.com/problems/groups-of-special-equivalent-strings/) ([Solution]())
 - [x] [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) ([Solution](intersection-of-two-arrays.py))
 - [x] [Validate Sudoku](https://leetcode.com/problems/valid-sudoku/) ([Solution](validate-sudoku.py))
-- [ ] [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) ([Solution](isomorphic-strings.py))
+- [x] [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) ([Solution](isomorphic-strings.py))
 - [x] [Word Pattern](https://leetcode.com/problems/word-pattern/) ([Solution](word-pattern.py))
 - [x] [Group Anagram](https://leetcode.com/problems/group-anagrams/) ([Solution](group-anagrams.py))
 - [x] [Design Hashmap](https://leetcode.com/problems/design-hashmap/) ([Solution](design-hashmap.py))
