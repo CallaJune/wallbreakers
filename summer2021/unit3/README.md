@@ -34,7 +34,7 @@ Make sure you use memoization if applicable for the problems below
 ### Dynamic Programming
 Same problems as above, but use dynamic programming this time
 
-- [ ] [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) ([Solution]())
+- [x] [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) ([Solution](best-time-to-buy-and-sell-stock.py))
 - [ ] [Edit Distance](https://leetcode.com/problems/edit-distance) ([Solution]())
 - [ ] [House Robber II](https://leetcode.com/problems/house-robber-ii) ([Solution]())
 	- Do not use a built-in regex for [this one](https://leetcode.com/problems/regular-expression-matching/)
