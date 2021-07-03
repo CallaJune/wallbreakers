@@ -26,8 +26,8 @@ Make sure you use memoization if applicable for the problems below
 
 - [ ] [Pow(x,n)](https://leetcode.com/problems/powx-n) ([Solution]())
 - [ ] [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) ([Solution]())
-- [ ] [Edit Distance](https://leetcode.com/problems/edit-distance) ([Solution]())
-- [ ] [House Robber II](https://leetcode.com/problems/house-robber-ii) ([Solution]())
+- [ ] [Edit Distance](https://leetcode.com/problems/edit-distance) ([Solution](house-robber-ii.py))
+- [x] [House Robber II](https://leetcode.com/problems/house-robber-ii) ([Solution]())
 	- Do not use a built-in regex for this one: https://leetcode.com/problems/regular-expression-matching/
 - [ ] [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)
 
@@ -36,10 +36,10 @@ Same problems as above, but use dynamic programming this time
 
 - [x] [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) ([Solution](best-time-to-buy-and-sell-stock.py))
 - [ ] [Edit Distance](https://leetcode.com/problems/edit-distance) ([Solution]())
-- [x] [House Robber II](https://leetcode.com/problems/house-robber-ii) ([Solution]())
+- [x] [House Robber II](https://leetcode.com/problems/house-robber-ii) ([Solution](house-robber-ii.py))
 	- Do not use a built-in regex for [this one](https://leetcode.com/problems/regular-expression-matching/)
-- [ ] [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)
-- [ ] [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)
+- [x] [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) ([Solution](maximum-product-subarray.py))
+- [x] [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/) ([Solution](palindromic-substrings.py))
 
 ## Resources
 - [Video on greedy algorithms](https://www.coursera.org/learn/algorithms-greedy)
