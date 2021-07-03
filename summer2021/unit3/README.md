@@ -15,21 +15,20 @@
 - [x] [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) ([Solution](find-the-duplicate-number.py))
 
 ### Sorting
-- [ ] [Valid Anagram](https://leetcode.com/problems/valid-anagram) ([Solution](valid-anagram.py))
-- [ ] [Array Partition I](https://leetcode.com/problems/array-partition-i) ([Solution]())
-- [ ] [Merge Intervals](https://leetcode.com/problems/merge-intervals) ([Solution]())
+- [x] [Valid Anagram](https://leetcode.com/problems/valid-anagram) ([Solution](valid-anagram.py))
+- [x] [Array Partition I](https://leetcode.com/problems/array-partition-i) ([Solution](array-partition-i.py))
+- [x] [Merge Intervals](https://leetcode.com/problems/merge-intervals) ([Solution](merge-intervals.py))
 	- Use sorting, not a multiset (you solved this problem using a multiset last week) 
-- [ ] [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string) ([Solution]())
 
 ### Recursion and memoization
 Make sure you use memoization if applicable for the problems below
 
 - [ ] [Pow(x,n)](https://leetcode.com/problems/powx-n) ([Solution]())
-- [ ] [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) ([Solution]())
+- [x] [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) ([Solution](best-time-to-buy-and-sell-stock.py))
 - [ ] [Edit Distance](https://leetcode.com/problems/edit-distance) ([Solution](house-robber-ii.py))
 - [x] [House Robber II](https://leetcode.com/problems/house-robber-ii) ([Solution]())
 	- Do not use a built-in regex for this one: https://leetcode.com/problems/regular-expression-matching/
-- [ ] [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)
+- [x] [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/) ([Solution](range-sum-of-bst.py))
 
 ### Dynamic Programming
 Same problems as above, but use dynamic programming this time
