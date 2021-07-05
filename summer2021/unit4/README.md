@@ -2,7 +2,7 @@
 ## Coding exercises
 ### Linked lists
 - [x] [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list) ([Solution](reverse-linked-list.py))
-- [ ] [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list) ([Solution](odd-even-linked-list.java))
+- [x] [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list) ([Solution](odd-even-linked-list.py))
 - [ ] [Reverse Nodes in K Group](https://leetcode.com/problems/reverse-nodes-in-k-group) ([Solution](reverse-nodes-in-k-group.java))
 - [ ] [LRU Cache](https://leetcode.com/problems/lru-cache) ([Solution](lru-cache.java))
 	- Hint: This one is a bit harder. You will need to use a doubly linked list and a hash map to get O(1) time complexity for both operations.
