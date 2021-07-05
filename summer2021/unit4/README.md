@@ -1,7 +1,7 @@
 # Unit 4
 ## Coding exercises
 ### Linked lists
-- [ ] [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list) ([Solution](reverse-linked-list.java))
+- [x] [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list) ([Solution](reverse-linked-list.py))
 - [ ] [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list) ([Solution](odd-even-linked-list.java))
 - [ ] [Reverse Nodes in K Group](https://leetcode.com/problems/reverse-nodes-in-k-group) ([Solution](reverse-nodes-in-k-group.java))
 - [ ] [LRU Cache](https://leetcode.com/problems/lru-cache) ([Solution](lru-cache.java))
