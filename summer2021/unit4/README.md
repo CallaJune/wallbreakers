@@ -16,7 +16,7 @@
 ### Queues
 - [x] [Implement Stack Using Queues](https://leetcode.com/problems/implement-stack-using-queues/) ([Solution](implement-stack-using-queues.py))
 - [x] [Implement Queue Using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) ([Solution](implement-queue-using-stacks.py))
-- [ ] [Rotate Array](https://leetcode.com/problems/rotate-array) ([Solution]())
+- [x] [Rotate Array](https://leetcode.com/problems/rotate-array) ([Solution](rotate-array.py))
 
 ### Heaps
 - [ ] [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements) ([Solution]())
