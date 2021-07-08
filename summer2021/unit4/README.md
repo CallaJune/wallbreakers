@@ -8,14 +8,14 @@
 	- Hint: This one is a bit harder. You will need to use a doubly linked list and a hash map to get O(1) time complexity for both operations.
 
 ### Stacks
-- [ ] [Baseball Game](https://leetcode.com/problems/baseball-game) ([Solution]())
+- [x] [Baseball Game](https://leetcode.com/problems/baseball-game) ([Solution](baseball-game.py))
 - [ ] [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i) ([Solution]())
-- [ ] [Valid Parentheses](https://leetcode.com/problems/valid-parentheses) ([Solution]())
+- [x] [Valid Parentheses](https://leetcode.com/problems/valid-parentheses) ([Solution](valid-parentheses.py))
 - [ ] [Score of Parentheses](https://leetcode.com/problems/score-of-parentheses) ([Solution]())
 
 ### Queues
-- [ ] [Implement Stack Using Queues](https://leetcode.com/problems/implement-stack-using-queues/) ([Solution]())
-- [ ] [Implement Queue Using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) ([Solution]())
+- [x] [Implement Stack Using Queues](https://leetcode.com/problems/implement-stack-using-queues/) ([Solution](implement-stack-using-queues.py))
+- [x] [Implement Queue Using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) ([Solution](implement-queue-using-stacks.py))
 - [ ] [Rotate Array](https://leetcode.com/problems/rotate-array) ([Solution]())
 
 ### Heaps
