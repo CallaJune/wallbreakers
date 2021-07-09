@@ -1,8 +1,8 @@
 # Unit 3
 ## Coding exercises
 ### Greedy algorithms
-- [ ] [Lemonate Change](https://leetcode.com/problems/lemonade-change) ([Solution]())
-- [ ] [Assign Cookies](https://leetcode.com/problems/assign-cookies) ([Solution]())
+- [x] [Lemonate Change](https://leetcode.com/problems/lemonade-change) ([Solution](lemonade-change.py))
+- [x] [Assign Cookies](https://leetcode.com/problems/assign-cookies) ([Solution](assign-cookies.py))
 - [ ] [Is Subsequence](https://leetcode.com/problems/is-subsequence) ([Solution]())
 - [ ] [Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons) ([Solution]())
 - [ ] [Partition Labels](https://leetcode.com/problems/partition-labels) ([Solution]())
