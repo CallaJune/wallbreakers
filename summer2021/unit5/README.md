@@ -5,8 +5,8 @@
 ### Trees
 - [ ] [N-ary Tree Postorder Traversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal) ([Solution]())
 - [ ] [Leaf Similar Trees](https://leetcode.com/problems/leaf-similar-trees) ([Solution]())
-- [ ] [Same Tree](https://leetcode.com/problems/same-tree) ([Solution]())
-- [ ] [Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves) ([Solution]())
+- [x] [Same Tree](https://leetcode.com/problems/same-tree) ([Solution](same-tree.py))
+- [x] [Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves) ([Solution](sum-of-left-leaves.py))
 - [ ] [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree) ([Solution]())
 - [ ] [Longest Univalue Path](https://leetcode.com/problems/longest-univalue-path) ([Solution]())
 - [ ] [Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value) ([Solution]())
