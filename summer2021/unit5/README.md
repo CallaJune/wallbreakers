@@ -3,14 +3,14 @@
 ## Coding Exercises
 
 ### Trees
-- [ ] [N-ary Tree Postorder Traversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal) ([Solution]())
-- [ ] [Leaf Similar Trees](https://leetcode.com/problems/leaf-similar-trees) ([Solution]())
+- [x] [N-ary Tree Postorder Traversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal) ([Solution](n-ary-tree-postorder-traversal.py))
+- [x] [Leaf Similar Trees](https://leetcode.com/problems/leaf-similar-trees) ([Solution](leaf-similar-trees.py))
 - [x] [Same Tree](https://leetcode.com/problems/same-tree) ([Solution](same-tree.py))
 - [x] [Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves) ([Solution](sum-of-left-leaves.py))
 - [ ] [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree) ([Solution]())
 - [ ] [Longest Univalue Path](https://leetcode.com/problems/longest-univalue-path) ([Solution]())
 - [ ] [Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value) ([Solution]())
-- [ ] [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)
+- [x] [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) ([Solution](invert-binary-tree.py))
 - [ ] [Unique Binary Trees](https://leetcode.com/problems/unique-binary-search-trees/)
 - [ ] [Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree/)
 
