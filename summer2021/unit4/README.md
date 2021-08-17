@@ -9,7 +9,7 @@
 
 ### Stacks
 - [x] [Baseball Game](https://leetcode.com/problems/baseball-game) ([Solution](baseball-game.py))
-- [ ] [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i) ([Solution]())
+- [x] [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i) ([Solution](next-greater-element-i.py))
 - [x] [Valid Parentheses](https://leetcode.com/problems/valid-parentheses) ([Solution](valid-parentheses.py))
 - [ ] [Score of Parentheses](https://leetcode.com/problems/score-of-parentheses) ([Solution]())
 
