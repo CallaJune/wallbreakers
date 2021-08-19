@@ -23,7 +23,7 @@
 - [ ] [Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists) ([Solution]())
 
 ### Combinatorial generation
-- [ ] [Subsets](https://leetcode.com/problems/subsets) ([Solution]())
+- [x] [Subsets](https://leetcode.com/problems/subsets) ([Solution](subsets.py))
 - [ ] [Permutations](https://leetcode.com/problems/permutations) ([Solution]())
 - [ ] [Combinations](https://leetcode.com/problems/combinations) ([Solution]())
 - [ ] [Generate Parentheses](https://leetcode.com/problems/generate-parentheses) ([Solution]())
