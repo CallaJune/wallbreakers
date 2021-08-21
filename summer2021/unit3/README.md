@@ -4,7 +4,7 @@
 - [x] [Lemonate Change](https://leetcode.com/problems/lemonade-change) ([Solution](lemonade-change.py))
 - [x] [Assign Cookies](https://leetcode.com/problems/assign-cookies) ([Solution](assign-cookies.py))
 - [x] [Is Subsequence](https://leetcode.com/problems/is-subsequence) ([Solution](is-subsequence.py))
-- [ ] [Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons) ([Solution]())
+- [x] [Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons) ([Solution](minimum-number-of-arrows-to-burst-balloons.py))
 - [ ] [Partition Labels](https://leetcode.com/problems/partition-labels) ([Solution]())
 - [ ] [Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height/)
 
