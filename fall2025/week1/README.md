@@ -22,13 +22,13 @@ After solving (or giving up on) a problem – take notes. Record what your think
 
 ## Coding exercises
 ### Arrays:
-- [ ] [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity) ([Solution]())
+- [x] [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity) ([C++](sort_array_by_parity.cpp), [Python](sort-array-by-parity.py))
 - [ ] [Transpose Matrix](https://leetcode.com/problems/transpose-matrix) ([Solution]())
 - [ ] [Flipping an Image](https://leetcode.com/problems/flipping-an-image) ([Solution]())
 
 ### Basic math:
 - [ ] [Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers) ([Solution]())
-- [ ] [Fizz Buzz](https://leetcode.com/problems/fizz-buzz) ([Solution](fizz_buzz.cpp))
+- [x] [Fizz Buzz](https://leetcode.com/problems/fizz-buzz) ([C++](fizz_buzz.cpp), [Python](fizz-buzz.py))
 - [ ] [Plus One](https://leetcode.com/problems/plus-one) ([Solution]())
 - [ ] [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number) ([Solution]())
 - [ ] [Power of Two](https://leetcode.com/problems/power-of-two) ([Solution]())
