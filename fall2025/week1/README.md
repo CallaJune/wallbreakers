@@ -31,7 +31,7 @@ After solving (or giving up on) a problem – take notes. Record what your think
 - [x] [Fizz Buzz](https://leetcode.com/problems/fizz-buzz) ([C++](fizz_buzz.cpp), [Python](fizz-buzz.py))
 - [ ] [Plus One](https://leetcode.com/problems/plus-one) ([Solution]())
 - [ ] [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number) ([Solution]())
-- [ ] [Power of Two](https://leetcode.com/problems/power-of-two) ([Solution]())
+- [x] [Power of Two](https://leetcode.com/problems/power-of-two) ([C++](is_power_of_two.cpp), [Python](is-power-of-two.py))
 
 ### Simple string manipulation:
 - [ ] [Reverse String](https://leetcode.com/problems/reverse-string) ([Solution]())
