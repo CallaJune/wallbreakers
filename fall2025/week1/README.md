@@ -37,7 +37,7 @@ After solving (or giving up on) a problem – take notes. Record what your think
 - [ ] [Reverse String](https://leetcode.com/problems/reverse-string) ([Solution]())
 - [ ] [Detect Capital](https://leetcode.com/problems/detect-capital) ([Solution]())
 - [ ] [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii) ([Solution]())
-- [ ] [Valid Palindrome](https://leetcode.com/problems/valid-palindrome) ([Solution](valid-palindrome.java))
+- [x] [Valid Palindrome](https://leetcode.com/problems/valid-palindrome) ([Python](is-palindrome.py))
 - [ ] [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string) ([Solution]())
 - [ ] [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix) ([Solution]())
 
