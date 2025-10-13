@@ -34,9 +34,9 @@ After solving (or giving up on) a problem – take notes. Record what your think
 - [x] [Power of Two](https://leetcode.com/problems/power-of-two) ([C++](is_power_of_two.cpp), [Python](is-power-of-two.py))
 
 ### Simple string manipulation:
-- [ ] [Reverse String](https://leetcode.com/problems/reverse-string) ([Solution]())
+- [x] [Reverse String](https://leetcode.com/problems/reverse-string) ([Python](reverse-string.py))
 - [ ] [Detect Capital](https://leetcode.com/problems/detect-capital) ([Solution]())
-- [ ] [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii) ([Solution]())
+- [x] [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii) ([Python](reverse-words-in-a-string-iii.py))
 - [x] [Valid Palindrome](https://leetcode.com/problems/valid-palindrome) ([Python](is-palindrome.py))
 - [ ] [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string) ([Solution]())
 - [ ] [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix) ([Solution]())
@@ -49,7 +49,7 @@ After solving (or giving up on) a problem – take notes. Record what your think
 
 ### Hashmaps and sets:
 - [ ] [Two Sum](https://leetcode.com/problems/two-sum/) ([Solution]())
-- [ ] [Valid Anagram](https://leetcode.com/problems/valid-anagram/) ([Solution]())
+- [x] [Valid Anagram](https://leetcode.com/problems/valid-anagram/) ([Python](valid-anagram.py))
 
 ### Union find:
 - [ ] [Friend Circles](https://leetcode.com/problems/friend-circles) ([Solution]())
