@@ -38,7 +38,7 @@ After solving (or giving up on) a problem – take notes. Record what your think
 - [ ] [Detect Capital](https://leetcode.com/problems/detect-capital) ([Solution]())
 - [x] [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii) ([Python](reverse-words-in-a-string-iii.py))
 - [x] [Valid Palindrome](https://leetcode.com/problems/valid-palindrome) ([Python](is-palindrome.py))
-- [ ] [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string) ([Solution]())
+- [x] [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string) ([Python](reverse-vowels-of-a-string.py))
 - [ ] [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix) ([Solution]())
 
 ### Simple bitwise manipulation:
