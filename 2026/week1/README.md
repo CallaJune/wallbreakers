@@ -48,7 +48,7 @@ After solving (or giving up on) a problem – take notes. Record what your think
 - [ ] [Single Number](https://leetcode.com/problems/single-number) ([Solution]())
 
 ### Hashmaps and sets:
-- [ ] [Two Sum](https://leetcode.com/problems/two-sum/) ([Solution]())
+- [x] [Two Sum](https://leetcode.com/problems/two-sum/) ([Python](two-sum.py))
 - [x] [Valid Anagram](https://leetcode.com/problems/valid-anagram/) ([Python](valid-anagram.py))
 
 ### Union find:
