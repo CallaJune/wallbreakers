@@ -23,19 +23,19 @@ After solving (or giving up on) a problem – take notes. Record what your think
 ## Coding exercises
 ### Arrays:
 - [x] [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity) ([C++](sort_array_by_parity.cpp), [Python](sort-array-by-parity.py))
-- [ ] [Transpose Matrix](https://leetcode.com/problems/transpose-matrix) ([Solution]())
-- [ ] [Flipping an Image](https://leetcode.com/problems/flipping-an-image) ([Solution]())
+- [x] [Transpose Matrix](https://leetcode.com/problems/transpose-matrix) ([Python](transpose-matrix.py))
+- [x] [Flipping an Image](https://leetcode.com/problems/flipping-an-image) ([Python](flippping-an-image.py))
 
 ### Basic math:
 - [x] [Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers) ([C++](self-dividing-numbers.cpp))
 - [x] [Fizz Buzz](https://leetcode.com/problems/fizz-buzz) ([C++](fizz_buzz.cpp), [Python](fizz-buzz.py))
-- [ ] [Plus One](https://leetcode.com/problems/plus-one) ([Solution]())
+- [x] [Plus One](https://leetcode.com/problems/plus-one) ([Python](plus-one.py))
 - [ ] [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number) ([Solution]())
 - [x] [Power of Two](https://leetcode.com/problems/power-of-two) ([C++](is_power_of_two.cpp), [Python](is-power-of-two.py))
 
 ### Simple string manipulation:
 - [x] [Reverse String](https://leetcode.com/problems/reverse-string) ([Python](reverse-string.py))
-- [ ] [Detect Capital](https://leetcode.com/problems/detect-capital) ([Solution]())
+- [x] [Detect Capital](https://leetcode.com/problems/detect-capital) ([Python](detect-capital.py))
 - [x] [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii) ([Python](reverse-words-in-a-string-iii.py))
 - [x] [Valid Palindrome](https://leetcode.com/problems/valid-palindrome) ([Python](is-palindrome.py))
 - [x] [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string) ([Python](reverse-vowels-of-a-string.py))
