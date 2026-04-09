@@ -39,7 +39,7 @@ After solving (or giving up on) a problem – take notes. Record what your think
 - [x] [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii) ([Python](reverse-words-in-a-string-iii.py))
 - [x] [Valid Palindrome](https://leetcode.com/problems/valid-palindrome) ([Python](is-palindrome.py))
 - [x] [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string) ([Python](reverse-vowels-of-a-string.py))
-- [ ] [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix) ([Solution]())
+- [x] [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix) ([Python](longest-common-prefix.py))
 
 ### Simple bitwise manipulation:
 - [ ] [Number Complement](https://leetcode.com/problems/number-complement) ([Solution]())
