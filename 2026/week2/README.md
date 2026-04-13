@@ -10,10 +10,10 @@ Hash maps and hash sets are arguably the most important data structures you will
 ## Week #2 Coding Exercises
 
 ### Hash maps and hash sets
-- [ ] [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/) ([Solution]()
-- [ ] [Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/) ([Solution]())
-- [ ] [Happy Number](https://leetcode.com/problems/happy-number/) ([Solution]())
-- [ ] [Uncommon Words from Two Sentences](https://leetcode.com/problems/uncommon-words-from-two-sentences/) ([Solution]())
+- [x] [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/) ([Solution](jewels-and-stones.py)
+- [x] [Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/) ([Solution](unique-morse-code-words.py))
+- [x] [Happy Number](https://leetcode.com/problems/happy-number/) ([Solution](happy-number.py))
+- [x] [Uncommon Words from Two Sentences](https://leetcode.com/problems/uncommon-words-from-two-sentences/) ([Solution](uncommon-words-from-two-sentences))
 - [ ] [Distribute Candies](https://leetcode.com/problems/distribute-candies/) ([Solution]())
 - [ ] [Groups of Special Equivalent Strings](https://leetcode.com/problems/groups-of-special-equivalent-strings/) ([Solution]())
 - [ ] [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) ([Solution]())
