@@ -17,11 +17,11 @@ Hash maps and hash sets are arguably the most important data structures you will
 - [ ] [Distribute Candies](https://leetcode.com/problems/distribute-candies/) ([Solution]())
 - [ ] [Groups of Special Equivalent Strings](https://leetcode.com/problems/groups-of-special-equivalent-strings/) ([Solution]())
 - [ ] [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) ([Solution]())
-- [ ] [Validate Sudoku](https://leetcode.com/problems/valid-sudoku/) ([Solution]())
-- [ ] [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) ([Solution]())
-- [ ] [Word Pattern](https://leetcode.com/problems/word-pattern/) ([Solution]())
-- [ ] [Design Hashmap](https://leetcode.com/problems/design-hashmap/) ([Solution]())
-- [ ] [Design Hashset](https://leetcode.com/problems/design-hashset/) ([Solution]())
+- [x] [Validate Sudoku](https://leetcode.com/problems/valid-sudoku/) ([Solution](valid-sudoku.py))
+- [x] [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) ([Solution](isomorphic-strings.py))
+- [x] [Word Pattern](https://leetcode.com/problems/word-pattern/) ([Solution](word-pattern.py))
+- [x] [Design Hashmap](https://leetcode.com/problems/design-hashmap/) ([Solution](design-hashmap.py))
+- [x] [Design Hashset](https://leetcode.com/problems/design-hashset/) ([Solution](design-hashset.py))
 
 ### Multisets
 - [ ] [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/) ([Solution]())
