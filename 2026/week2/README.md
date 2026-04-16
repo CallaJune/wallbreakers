@@ -14,9 +14,9 @@ Hash maps and hash sets are arguably the most important data structures you will
 - [x] [Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/) ([Solution](unique-morse-code-words.py))
 - [x] [Happy Number](https://leetcode.com/problems/happy-number/) ([Solution](happy-number.py))
 - [x] [Uncommon Words from Two Sentences](https://leetcode.com/problems/uncommon-words-from-two-sentences/) ([Solution](uncommon-words-from-two-sentences))
-- [ ] [Distribute Candies](https://leetcode.com/problems/distribute-candies/) ([Solution]())
+- [x] [Distribute Candies](https://leetcode.com/problems/distribute-candies/) ([Solution](distribute-candies.py))
 - [ ] [Groups of Special Equivalent Strings](https://leetcode.com/problems/groups-of-special-equivalent-strings/) ([Solution]())
-- [ ] [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) ([Solution]())
+- [x] [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) ([Solution](intersection-of-two-arrays.py))
 - [x] [Validate Sudoku](https://leetcode.com/problems/valid-sudoku/) ([Solution](valid-sudoku.py))
 - [x] [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) ([Solution](isomorphic-strings.py))
 - [x] [Word Pattern](https://leetcode.com/problems/word-pattern/) ([Solution](word-pattern.py))
@@ -24,14 +24,14 @@ Hash maps and hash sets are arguably the most important data structures you will
 - [x] [Design Hashset](https://leetcode.com/problems/design-hashset/) ([Solution](design-hashset.py))
 
 ### Multisets
-- [ ] [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/) ([Solution]())
+- [x] [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/) ([Solution](find-all-anagrams-in-a-string.py))
 	- Note: Use a multiset for this one. You can also solve it without using one. How? Try to solve it both ways. How do the two solutions compare?
-- [ ] [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) ([Solution]())
+- [x] [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) ([Solution](first-unique-character-in-a-string.py))
 - [ ] [Subdomain Visit Count](https://leetcode.com/problems/subdomain-visit-count/) ([Solution]())
-- [ ] [Find the Difference](https://leetcode.com/problems/find-the-difference/) ([Solution]())
-- [ ] [Most Common Word](https://leetcode.com/problems/most-common-word/) ([Solution]())
+- [x] [Find the Difference](https://leetcode.com/problems/find-the-difference/) ([Solution](find-the-difference.py))
+- [x] [Most Common Word](https://leetcode.com/problems/most-common-word/) ([Solution](most-common-word.py))
 - [ ] [Sort Characters by Frequency](https://leetcode.com/problems/sort-characters-by-frequency/) ([Solution]())
-- [ ] [Set Mismatch](https://leetcode.com/problems/set-mismatch/) ([Solution]())
+- [x] [Set Mismatch](https://leetcode.com/problems/set-mismatch/) ([Solution](set-mismatch.py))
 	- Note: This one has a few “clever” solutions but feel free to use a simple multiset solution.
 - [ ] [Number of Atoms](https://leetcode.com/problems/number-of-atoms/) ([Solution]())
 	- Note: This one is more difficult than the average interview question but it is good exercise! You will need to build a simple parser in addition to using a multiset.
