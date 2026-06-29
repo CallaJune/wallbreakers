@@ -11,18 +11,18 @@ By the end of this week, you should feel confident in noticing when greedy algor
 Problems are grouped by applicable problem solving strategy here. Within each group problems appear in roughly increasing order of difficulty. If you get stuck on a problem in one group, you can switch to a problem in another group and go back later. This can help make sure you keep making progress.
 
 ### Greedy algorithms
-- [ ] [Lemonate Change](https://leetcode.com/problems/lemonade-change) ([Solution]())
-- [ ] [Assign Cookies](https://leetcode.com/problems/assign-cookies) ([Solution]())
-- [ ] [Is Subsequence](https://leetcode.com/problems/is-subsequence) ([Solution]())
+- [x] [Lemonate Change](https://leetcode.com/problems/lemonade-change) ([Solution](lemonade-change.py))
+- [x] [Assign Cookies](https://leetcode.com/problems/assign-cookies) ([Solution](assign-cookies.py))
+- [x] [Is Subsequence](https://leetcode.com/problems/is-subsequence) ([Solution](is-subsequence.py))
 - [ ] [Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons) ([Solution]())
-- [ ] [Partition Labels](https://leetcode.com/problems/partition-labels) ([Solution](partition-labels.java))
+- [ ] [Partition Labels](https://leetcode.com/problems/partition-labels) ([Solution]())
 
 ### Binary search
-- [ ] [Binary Search](https://leetcode.com/problems/binary-search) ([Solution]())
-- [ ] [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array) ([Solution]())
+- [x] [Binary Search](https://leetcode.com/problems/binary-search) ([Solution](binary-search.py))
+- [x] [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array) ([Solution](peak-index-in-a-mountain-array.py))
 
 ### Sorting
-- [ ] [Valid Anagram](https://leetcode.com/problems/valid-anagram) ([Solution]())
+- [x] [Valid Anagram](https://leetcode.com/problems/valid-anagram) ([Solution](valid-anagram.py))
 - [ ] [Array Partition I](https://leetcode.com/problems/array-partition-i) ([Solution]())
 - [ ] [Merge Intervals](https://leetcode.com/problems/merge-intervals) ([Solution]())
 	- Use sorting, not a multiset (you solved this problem using a multiset last week) 
@@ -31,8 +31,8 @@ Problems are grouped by applicable problem solving strategy here. Within each gr
 ### Recursion and memoization
 Make sure you use memoization if applicable for the problems below
 
-- [ ] [Pow(x,n)](https://leetcode.com/problems/powx-n) ([Solution](powx-n.java))
-- [ ] [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) ([Solution]())
+- [x] [Pow(x,n)](https://leetcode.com/problems/powx-n) ([Solution](powx-n.py))
+- [x] [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) ([Solution](best-time-to-buy-and-sell-stock.py))
 - [ ] [Edit Distance](https://leetcode.com/problems/edit-distance) ([Solution]())
 - [ ] [House Robber II](https://leetcode.com/problems/house-robber-ii) ([Solution]())
 	- Do not use a built-in regex for this one: https://leetcode.com/problems/regular-expression-matching/
@@ -40,7 +40,7 @@ Make sure you use memoization if applicable for the problems below
 ### Dynamic Programming
 Same problems as above, but use dynamic programming this time
 
-- [ ] [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) ([Solution]())
+- [x] [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) ([Solution](best-time-to-buy-and-sell-stock.py))
 - [ ] [Edit Distance](https://leetcode.com/problems/edit-distance) ([Solution]())
 - [ ] [House Robber II](https://leetcode.com/problems/house-robber-ii) ([Solution]())
 	- Do not use a built-in regex for [this one](https://leetcode.com/problems/regular-expression-matching/)
