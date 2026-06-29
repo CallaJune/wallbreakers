@@ -11,14 +11,14 @@ This week we will look at a few more data structures and how to use them to solv
 Problems are grouped by applicable problem solving strategy here. Within each group problems appear in roughly increasing order of difficulty. If you get stuck on a problem in one group, you can switch to a problem in another group and go back later. This can help make sure you keep making progress.
 
 ### Linked lists
-- [ ] [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list) ([Solution](reverse-linked-list.java))
-- [ ] [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list) ([Solution](odd-even-linked-list.java))
-- [ ] [Reverse Nodes in K Group](https://leetcode.com/problems/reverse-nodes-in-k-group) ([Solution](reverse-nodes-in-k-group.java))
+- [x] [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list) ([Solution](reverse-linked-list.py))
+- [x] [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list) ([Solution](odd-even-linked-list.py))
+- [ ] [Reverse Nodes in K Group](https://leetcode.com/problems/reverse-nodes-in-k-group) ([Solution]())
 - [ ] [LRU Cache](https://leetcode.com/problems/lru-cache) ([Solution](lru-cache.java))
 	- Hint: This one is a bit harder. You will need to use a doubly linked list and a hash map to get O(1) time complexity for both operations.
 
 ### Stacks
-- [ ] [Baseball Game](https://leetcode.com/problems/baseball-game) ([Solution]())
+- [x] [Baseball Game](https://leetcode.com/problems/baseball-game) ([Solution](baseball-game.py))
 - [ ] [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i) ([Solution]())
 - [ ] [Valid Parentheses](https://leetcode.com/problems/valid-parentheses) ([Solution]())
 - [ ] [Score of Parentheses](https://leetcode.com/problems/score-of-parentheses) ([Solution]())
